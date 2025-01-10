@@ -1,0 +1,84 @@
+@media screen and (max-width: 1309px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 523px;
+  }
+}
+@media screen and (max-width: 1176px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 550px;
+  }
+}
+@media screen and (max-width: 1128px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 947px;
+  }
+}
+@media screen and (max-width: 887px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 1520px;
+  }
+}
+@media screen and (max-width: 599px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 1480px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 1491px;
+  }
+}
+@media screen and (max-width: 373px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 1517px;
+  }
+}
+@media screen and (max-width: 365px) {
+  .job_listings[data-per_page="3"] {
+    min-height: 1549px;
+  }
+}
+
+.job_listings[data-per_page="6"] {
+  min-height: calc(1002px + 200px);
+}
+@media screen and (max-width: 1309px) {
+  .job_listings[data-per_page="6"] {
+    min-height: 1300px;
+  }
+}
+@media screen and (max-width: 1176px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(1100px + 200px);
+  }
+}
+@media screen and (max-width: 1128px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(1894px + 200px);
+  }
+}
+@media screen and (max-width: 887px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(3040px + 200px);
+  }
+}
+@media screen and (max-width: 599px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(2960px + 200px);
+  }
+}
+@media screen and (max-width: 420px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(2982px + 200px);
+  }
+}
+@media screen and (max-width: 373px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(3034px + 200px);
+  }
+}
+@media screen and (max-width: 365px) {
+  .job_listings[data-per_page="6"] {
+    min-height: calc(3098px + 200px);
+  }
+}

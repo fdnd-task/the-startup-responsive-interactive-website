@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: black;
+  position: relative;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  margin-left: auto;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem 0;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+  text-decoration-color: #ffc700;
+}
+
+.logo img {
+  position: absolute;
+  top: 30%;
+  left: 3rem;
+
+  bottom: -5rem;
+  width: 10rem;
+  height: 10rem;
+  z-index: 10;
+}
+
+.job-listing-cover {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.hero-content img {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.job-listing-cover {
+  position: relative;
+  width: 100%;
+  height: 60rem;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.job-listing-cover {
+}
+
+.job-listing-cover::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom right, #000, #0003);
+  pointer-events: none;
+  z-index: 1;
+}
+*/ .hero-content.text {
+  z-index: 1;
+}

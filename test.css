@@ -1,0 +1,159 @@
+/* Navbar for mobile design*/
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: black;
+}
+
+li a {
+  display: block;
+  color: #fff;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ffc700;
+} */
+
+/* Navbar design for desktop */
+
+/* Reset and general styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Navbar setup */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: black;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  bottom: -50rem;
+  z-index: 10;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin-left: 1rem;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem 0;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+  text-decoration-color: #ffc700;
+}
+
+.img-container {
+  position: relative;
+  width: 100%;
+  height: 60rem;
+  overflow: hidden;
+}
+
+/* .img-container img {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.img-container::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom right, #000, #0003);
+  pointer-events: none;
+} */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+span {
+  margin-right: 20rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  margin-left: 1rem;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 4rem 0 1em;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+  text-decoration-color: #ffc700;
+  bottom: 10rem 12n;
+}
+
+.img-container {
+  position: relative;
+  width: 100%;
+  height: 60rem;
+  overflow: hidden;
+}
+
+.img-container img {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.logo {
+  display: flex;
+}
+
+.img-container::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom right, #000, #0003);
+  pointer-events: none;
+} */
