@@ -37,7 +37,7 @@ Over _Mobile First_ media queries hoor je ons nou al een tijdje zeuren. In Sprin
 
 Wat is complexer? De juiste selector schrijven, of de juiste media query schrijven? Hoe kun je je werk makkelijker onderhouden? Als alle styling voor een bepaald onderdeel (_component_) bij elkaar staat, inclusief media queries? Of wanneer de styling voor een bepaald component op totaal verschillende plekken in je stylesheet staat? Hoe werkt de _cascade_ door in geneste media queries? Welke (dubbele) properties kun je weghalen nu je ziet dat je die een paar regels eerder al hebt gedeclareerd? Zoek naar plekken waar je door media queries slimmer in te zetten je CSS kunt refactoren. Commit je wijzigingen bijvoorbeeld als “Refactor media queries”. Hou er ook hier rekening mee dat je geen functionaliteit verandert. Anders is het geen refactor. Als je bijvoorbeeld besluit met Container Queries te gaan werken, verander je daarmee ook de functionaliteit. Dit hoort dus _niet_ bij refactoren.
 
-Maak in je Readme een kopje aan met “Nesten van media queries” en leg uit hoe je in CSS je code hebt opgebouwd voor Responsive Design en leg de media queries uit. Link naar voorbeelden in je CSS.
+Maak in je Readme een kopje aan met “Nesten van media queries”, leg uit hoe je in CSS je code hebt opgebouwd voor Responsive Design en leg de media queries uit. Link naar voorbeelden in je CSS.
 
 
 ### Naamgeving
