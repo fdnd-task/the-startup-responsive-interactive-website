@@ -40,7 +40,10 @@ Bij 'Beschrijving' komt te staan hoe je website er uit ziet, hoe het werkt en wa
 
 Laat hier zien hoe je website responsive is. Toon verschillende schermen en leg ze uit. 
 
-Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere principes. Je kan ontwerpkeuzes ook uitleggen met bevindingen uit de user test, de gebruiker heeft altijd gelijk ... Link naar de live pagina met de interactie.
+Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. 
+Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere interactie principes, bekijk hiervoor de [workshop Interaction Design](interaction-design.md). 
+Je kan ontwerpkeuzes uitleggen met behulp van de Disney Animatie principes die je hebt toegepast in de [workshop Programming User Interaction](programming-user-interaction.md).
+Je kan ontwerpkeuzes ook uitleggen met bevindingen uit de user test, de gebruiker heeft altijd gelijk, zoals je hebt gedaan tijdens de [code/design review - user testing](code-design-review-user-testing.md) op vrijdag ... Link naar de live pagina met de interactie.
 
 #### Kenmerken 
 Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe?
