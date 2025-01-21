@@ -32,20 +32,22 @@ Als opdrachtgevers jouw werk bekijken wordt eerst de readme gelezen om te begrij
 
 De readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kan screenshots laten toevoegen en vertellen wie de website heeft genaakt. De readme is het uithangbord van het project.
 
-#### Titel
+### Titel
 Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat je hebt gemaakt. Dit is het "ontwerpprobleem" en de "oplossing".
 
-#### Beschrijving
+### Beschrijving
 Bij 'Beschrijving' komt te staan hoe je website er uit ziet, hoe het werkt en wat je er mee kan. 
 
+#### Responsive
 Laat hier zien hoe je website responsive is. Toon verschillende schermen en leg ze uit. 
 
+#### Ontwerpkeuzes verantwoorden
 Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. 
 Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere interactie principes, bekijk hiervoor de [workshop Interaction Design](interaction-design.md). 
 Je kan ontwerpkeuzes uitleggen met behulp van de Disney Animatie principes die je hebt toegepast in de [workshop Programming User Interaction](programming-user-interaction.md).
 Je kan ontwerpkeuzes ook uitleggen met bevindingen uit de user test, de gebruiker heeft altijd gelijk, zoals je hebt gedaan tijdens de [code/design review - user testing](code-design-review-user-testing.md) op vrijdag ... Link naar de live pagina met de interactie.
 
-#### Kenmerken 
+### Kenmerken 
 Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe?
 
 Leg hier in grote lijnen uit hoe de interacties werken met HTML, CSS en JS en verwijs naar code in je repo. 
