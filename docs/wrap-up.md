@@ -39,7 +39,9 @@ Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat 
 Bij 'Beschrijving' komt te staan hoe je website er uit ziet, hoe het werkt en wat je er mee kan. 
 
 #### Responsive
-Laat hier zien hoe je website responsive is. Toon verschillende schermen en leg ze uit. 
+Laat hier zien hoe je website responsive is. 
+Toon een screenshot per breakpoint en leg ze uit. 
+Je kan je responsive website uitleggen  aan de hand van de (workshop Mobile First](mobile-first.md).
 
 #### Ontwerpkeuzes verantwoorden
 Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. 
