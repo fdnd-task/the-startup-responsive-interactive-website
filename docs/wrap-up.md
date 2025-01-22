@@ -12,6 +12,7 @@ Als je vrienden of familie eens wilt laten zien waar je zoal mee bezig bent, nod
 Elke student maakt een poster die tijdens de expo wordt opgehangen. Elke opdrachtgever krijgt een eigen tafel + whiteboard. Op het whiteboard plakken we alle posters. Elke student maakt een eigen poster. 
 
 ### Figma template
+
 Voor de poster is een template gemaakt. Gebruik dit als uitgangspunt. Denk alvast na over het werk wat je gaat tonen.  
 https://www.figma.com/design/XAivPKozRpSndmQ5sy1NoE/Posters-expo-S1%2FS3?node-id=0-1&p=f&t=DRj0q3aa1w4SYdAu-0
  
@@ -28,22 +29,27 @@ Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.c
 
 
 ## Readme schrijven
-Als opdrachtgevers jouw werk bekijken wordt eerst de readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
 
-De readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kan screenshots laten toevoegen en vertellen wie de website heeft genaakt. De readme is het uithangbord van het project.
+Als opdrachtgevers jouw werk bekijken, wordt eerst de Readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
+
+De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kunt screenshots toevoegen en vertellen wie de website heeft gemaakt. De Readme is het uithangbord van het project.
 
 ### Titel
-Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat je hebt gemaakt. Dit is het "ontwerpprobleem" en de "oplossing".
+
+Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat je hebt gemaakt. Dit is het “ontwerpprobleem” en de “oplossing”.
 
 ### Beschrijving
+
 Bij 'Beschrijving' komt te staan hoe je website er uit ziet, hoe het werkt en wat je er mee kan. 
 
 #### Responsive
+
 Laat hier zien hoe je website responsive is. 
 Toon een screenshot per breakpoint en leg ze uit. 
-Je kan je responsive website uitleggen  aan de hand van de [workshop Mobile First](mobile-first.md).
+Je kan je responsive website uitleggen aan de hand van de [workshop Mobile First](mobile-first.md).
 
 #### Ontwerpkeuzes verantwoorden
+
 Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. 
 Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere interactie principes, bekijk hiervoor de [workshop Interaction Design](interaction-design.md). 
 Je kan ontwerpkeuzes uitleggen met behulp van de Disney Animatie principes die je hebt toegepast in de [workshop Programming User Interaction](programming-user-interaction.md).
