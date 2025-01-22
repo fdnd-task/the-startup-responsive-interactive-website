@@ -6,7 +6,7 @@ Tijdens de *Wrap up* ga je de sprint review met de opdrachtgever voorbereiden en
 
 ## Poster maken voor de expo
 
-Vrijdag 24 januari vindt bij FDND een expo plaats met al jullie werk. Verschillende opdrachtgevers komen langs, oud studenten en andere bedrijven. Misschien kan je al wat contacten leggen voor later! 
+Vrijdag 24 januari vindt bij FDND een expo plaats met al jullie werk. Verschillende opdrachtgevers, oud-studenten en andere bedrijven komen langs. Misschien kan je al wat contacten leggen voor later!
 Als je vrienden of familie eens wilt laten zien waar je zoal mee bezig bent, nodig ze hiervoor dan uit. De expo vindt plaats bij FDND en de 2 lokalen aan de andere kant van de gang.
 
 Elke student maakt een poster die tijdens de expo wordt opgehangen. Elke opdrachtgever krijgt een eigen tafel + whiteboard. Op het whiteboard plakken we alle posters. Elke student maakt een eigen poster. 
@@ -15,12 +15,12 @@ Elke student maakt een poster die tijdens de expo wordt opgehangen. Elke opdrach
 Voor de poster is een template gemaakt. Gebruik dit als uitgangspunt. Denk alvast na over het werk wat je gaat tonen.  
 https://www.figma.com/design/XAivPKozRpSndmQ5sy1NoE/Posters-expo-S1%2FS3?node-id=0-1&p=f&t=DRj0q3aa1w4SYdAu-0
  
- We gaan de posters woensdag om 16:00 printen.
+We gaan de posters woensdag om 16:00 printen.
 
 
 ## Sprint review voorbereiden
 
-Presenteer je werk aan de hand van de opdracht. Begin je presentatie met een korte uitleg wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik je Readme tijdens de presentatie, laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interacties(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent. 
+Presenteer je werk aan de hand van de opdracht. Begin je presentatie met een korte uitleg van wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik je Readme tijdens de presentatie, laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interactie(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent. 
 
 Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. Misschien willen ze ook nog een code review doen? De kans om een professional naar jouw code te laten kijken! 
 
