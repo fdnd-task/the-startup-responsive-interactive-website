@@ -19,20 +19,13 @@ https://www.figma.com/design/XAivPKozRpSndmQ5sy1NoE/Posters-expo-S1%2FS3?node-id
 We gaan de posters woensdag om 16:00 printen.
 
 
-## Sprint review voorbereiden
-
-Presenteer je werk aan de hand van de opdracht. Begin je presentatie met een korte uitleg van wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik je Readme tijdens de presentatie, laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interactie(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent. 
-
-Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. Misschien willen ze ook nog een code review doen? De kans om een professional naar jouw code te laten kijken! 
-
-Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md
-
-
 ## Readme schrijven
 
-Als opdrachtgevers jouw werk bekijken, wordt eerst de Readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
+Als opdrachtgevers jouw werk bekijken, wordt eerst de Readme gelezen, om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
 
 De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kunt screenshots toevoegen en vertellen wie de website heeft gemaakt. De Readme is het uithangbord van het project.
+
+Zet ook een (werkende) link naar je live website bij de About van je repository.
 
 ### Titel
 
@@ -48,16 +41,28 @@ Laat hier zien hoe je website responsive is.
 Toon een screenshot per breakpoint en leg ze uit. 
 Je kan je responsive website uitleggen aan de hand van de [workshop Mobile First](mobile-first.md).
 
-#### Ontwerpkeuzes verantwoorden
+#### Ontwerpkeuzes
 
-Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. 
-Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere interactie principes, bekijk hiervoor de [workshop Interaction Design](interaction-design.md). 
-Je kan ontwerpkeuzes uitleggen met behulp van de Disney Animatie principes die je hebt toegepast in de [workshop Programming User Interaction](programming-user-interaction.md).
-Je kan ontwerpkeuzes ook uitleggen met bevindingen uit de user test, de gebruiker heeft altijd gelijk, zoals je hebt gedaan tijdens de [code/design review - user testing](code-design-review-user-testing.md) op vrijdag ... Link naar de live pagina met de interactie.
+Laat bij _Beschrijving_ ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit.
+Je ontwerpkeuzes kan je uitleggen door te schrijven en te laten zien hoe je _feedback_ en _feedforward_ hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van _labels_ of andere interactie principes. Bekijk hiervoor de [workshop Interaction Design](interaction-design.md). 
+Je kunt ontwerpkeuzes uitleggen met behulp van de Disney Animatie principes die je hebt toegepast in de [workshop Programming User Interaction](programming-user-interaction.md).
+Je kunt ontwerpkeuzes ook uitleggen met bevindingen uit de _user test_ (de gebruiker heeft altijd gelijk), zoals je hebt gedaan tijdens de [code/design review - user testing](code-design-review-user-testing.md) op vrijdag.
 
-### Kenmerken 
+Link naar de live pagina met de interactie.
+
+### Kenmerken
+
 Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe?
 
-Leg hier in grote lijnen uit hoe de interacties werken met HTML, CSS en JS en verwijs naar code in je repo. 
+Leg hier in grote lijnen uit hoe de interacties werken met HTML, CSS en JS en verwijs naar code in je repo.
 
-Bij _kenmerken_ toon je ook de _code conventies_ die je tijdens de workshop [Refactoring en Code Conventions](refactoring-code-conventions.md) hebt gemaakt. 
+Bij _kenmerken_ toon je ook de _code conventies_ die je tijdens de workshop [Refactoring en Code Conventions](refactoring-code-conventions.md) hebt gemaakt.
+
+
+## Sprint review voorbereiden
+
+Presenteer je werk tijdens de sprint review aan de hand van de opdracht. Begin je presentatie met een korte uitleg van wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik je Readme tijdens de presentatie, laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interactie(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent.
+
+Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. Misschien willen ze ook nog een code review doen? De kans om een professional naar jouw code te laten kijken!
+
+Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md
