@@ -41,7 +41,7 @@ Bij 'Beschrijving' komt te staan hoe je website er uit ziet, hoe het werkt en wa
 #### Responsive
 Laat hier zien hoe je website responsive is. 
 Toon een screenshot per breakpoint en leg ze uit. 
-Je kan je responsive website uitleggen  aan de hand van de (workshop Mobile First](mobile-first.md).
+Je kan je responsive website uitleggen  aan de hand van de (workshop Mobile First)[mobile-first.md).
 
 #### Ontwerpkeuzes verantwoorden
 Laat bij _beschrijving_  ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. 
