@@ -1,21 +1,37 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="main.css" />
-    <title>Vacatures - Ontdek de Schoonmaak</title>
+    <link rel="icon" type="image/x-icon" href="/assets/Logo (1).svg" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="active-collective.css" />
+    <script src="/script.js" defer></script>
+    <title>Ontdek de Schoonmaak - Vacatures</title>
   </head>
   <body>
     <header>
-      <nav>
-        <!-- COMPANY LOGO -->
-        <div class="logo">
-          <img src="/assets/Logo (1).svg" alt="Ontdek de Schoonmaak Logo" />
+      <!-- =========== START NAV SECTION =========== -->
+      <nav class="main-nav" aria-label="Main Navigation">
+        <!-- =========== COMPANY LOGO =========== -->
+        <div class="company-logo">
+          <a href="/">
+            <img src="/assets/Logo (1).svg" alt="Ontdek de Schoonmaak Logo" />
+          </a>
         </div>
 
-        <!-- NAVIGATION LINKS -->
-        <ul>
+        <!-- =========== HAMBURGER MENU TOGGLES =========== -->
+
+        <div class="btn-container">
+          <button class="open-menu-btn">
+            <img src="/assets/hamburger-menu.svg" alt="" />
+          </button>
+          <button class="close-menu-btn">
+            <img src="/assets/close-menu.svg" />
+          </button>
+        </div>
+        <!-- =========== NAV LINKS =========== -->
+        <ul class="menu-links">
           <li><a href="#vacatures">Vacatures</a></li>
           <li><a href="#beroepen">Beroepen</a></li>
           <li><a href="#opleidingen">Opleidingen</a></li>
@@ -23,20 +39,259 @@
           <li><a href="#vacture-alert">Vacature-alert</a></li>
         </ul>
       </nav>
+      <!-- =========== END NAV SECTION =========== -->
     </header>
-
+    <!-- =========== START MAIN SECTION =========== -->
     <main class="main-content">
-      <figure class="hero-content">
-        <img
-          class="job-listing-cover"
-          src="/assets/ontdek-de-schoonmaak.webp"
-          alt="Hero image showing a cleaning job scene"
-        />
-        <figcaption class="hero-text">
-          <h1>Onze vacatures</h1>
-          <h2>Er zit altijd iets voor je bij.</h2>
-        </figcaption>
-      </figure>
+      <div class="hero-content">
+        <!-- =========== START MAIN SECTION =========== -->
+        <div class="job-field-container">
+          <form>
+            <div class="input-group">
+              <label for="job-input">Wat zoek je voor werk?</label>
+              <input
+                type="text"
+                id="job-input"
+                name="beroep"
+                placeholder="Kies een beroep"
+              />
+            </div>
+            <div class="input-group">
+              <label for="location-input">Waar zoek je?</label>
+              <input
+                type="text"
+                id="location-input"
+                name="locatie"
+                placeholder="Voer plaats / postcode in"
+              />
+            </div>
+            <button type="submit" class="search-btn">Search</button>
+          </form>
+        </div>
+
+        <!-- =========== START MAIN SECTION =========== -->
+        <figure>
+          <img
+            src="/assets/ontdek-de-schoonmaak.webp"
+            alt="Hero image showing a cleaning job scene"
+          />
+        </figure>
+        <div class="hero-text">
+          <h1>Onze <span>vacatures</span></h1>
+          <h2>Ontdek je nieuwe baan vandaag.</h2>
+        </div>
+      </div>
+
+      <!-- =========== JOB LISTING FILTER SECTION =========== -->
+
+      <!-- =========== VAKGEBIED FILTER =========== -->
+      <section class="wrapper">
+        <div class="filter-container">
+          <div class="filter-toggle">
+            <img
+              id="filter-icon"
+              src="/assets/tune_34dp_FFC700_FILL0_wght400_GRAD0_opsz40.svg"
+              alt=""
+            />
+            <button class="open-filter-btn">Filter Resultaten</button>
+          </div>
+
+          <div class="popup-wrapper hidden">
+            <div class="pop-content">
+              <div class="popup-filter-toggle"></div>
+              <div class="job-filter-container">
+                <details>
+                  <summary>Vakgebied</summary>
+                  <label>
+                    <input
+                      type="checkbox"
+                      name="vakgebied"
+                      value="glazenwasser"
+                    />
+                    Glazenwasser
+                  </label>
+                  <label>
+                    <input
+                      type="checkbox"
+                      name="vakgebied"
+                      value="hr-recruitment"
+                    />
+                    HR & recruitment
+                  </label>
+                  <div class="more-options hidden">
+                    <label>
+                      <input type="checkbox" name="vakgebied" value="sales" />
+                      Sales
+                    </label>
+                    <label>
+                      <input
+                        type="checkbox"
+                        name="vakgebied"
+                        value="industrieel-reiniger"
+                      />
+                      Industrieel reiniger
+                    </label>
+                    <label>
+                      <input type="checkbox" name="vakgebied" value="overig" />
+                      Overig
+                    </label>
+                  </div>
+                  <button type="button" class="show-more-btn">Show More</button>
+                </details>
+                <details>
+                  <summary>Werkomgeving</summary>
+                  <label>
+                    <input
+                      type="checkbox"
+                      name="werkomgeving"
+                      value="kantoorpanden"
+                    />
+                    Kantoorpanden
+                  </label>
+                  <label>
+                    <input
+                      type="checkbox"
+                      name="werkomgeving"
+                      value="particulier"
+                    />
+                    Particulier
+                  </label>
+                  <div class="more-options hidden">
+                    <label>
+                      <input
+                        type="checkbox"
+                        name="werkomgeving"
+                        value="onderwijs"
+                      />
+                      Onderwijs
+                    </label>
+                    <label>
+                      <input
+                        type="checkbox"
+                        name="werkomgeving"
+                        value="gezondheidszorg"
+                      />
+                      Gezondheidszorg
+                    </label>
+                  </div>
+                  <button type="button" class="show-more-btn">Show More</button>
+                </details>
+
+                <details>
+                  <summary>Type Werk</summary>
+                  <div class="btn-wrapper">
+                    <button class="job-btn">Fulltime</button>
+                    <button class="job-btn">Parttime</button>
+                    <button class="job-btn">Stage</button>
+                  </div>
+                </details>
+
+                <details>
+                  <summary>Afstand</summary>
+                  <label for="distance">
+                    <select name="distance" id="distance-dropdown">
+                      <option value="<5">&lt;5 km</option>
+                      <option value="<10">&lt;10 km</option>
+                      <option value="<20">&lt;20 km</option>
+                      <option value="<30">&lt;30 km</option>
+                      <option value="<50">&lt;50 km</option>
+                    </select>
+                  </label>
+                </details>
+
+                <details id="bottom-border">
+                  <summary>Salaris</summary>
+                  <label>
+                    <input type="checkbox" name="salaris" value="1000-2000" />
+                    €1000-€2000 per maand
+                  </label>
+                  <label>
+                    <input type="checkbox" name="salaris" value="2000-3000" />
+                    €2000-€3000 per maand
+                  </label>
+                  <div class="more-options hidden">
+                    <label>
+                      <input type="checkbox" name="salaris" value="4000-5000" />
+                      €4000-€5000 per maand
+                    </label>
+                    <label>
+                      <input type="checkbox" name="salaris" value="5000+" />
+                      €5000+ per maand
+                    </label>
+                  </div>
+                  <button type="button" class="show-more-btn">Show More</button>
+                </details>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- =========== START JOB LISTINGS SECTION =========== -->
+        <div class="job-listing-container">
+          <div class="job-posting">
+            <p class="date">06/01/2025</p>
+            <h2 class="title">Achterlijk toffe titel van een vacature</h2>
+            <ul class="details">
+              <li><span class="icon"></span> Blofsteeg a/d Lek</li>
+              <li><span class="icon"></span> 8 tot 16 uur p.w.</li>
+              <li><span class="icon"></span> € 13,12 - € 16,98 per uur</li>
+            </ul>
+            <p>
+              Woon jij in Zwaansmeer, Blofsteeg of Smilderheul en ben je op zoek
+              naar een baan in de schoonmaak als vloerspecialist? Dan is dit
+              voor jou!
+            </p>
+            <button class="view-job">Bekijk vacature</button>
+          </div>
+
+          <div class="job-posting">
+            <p class="date">06/01/2025</p>
+            <h2 class="title">Achterlijk toffe titel van een vacature</h2>
+            <ul class="details">
+              <li><span class="icon"></span> Blofsteeg a/d Lek</li>
+              <li><span class="icon"></span> 8 tot 16 uur p.w.</li>
+              <li><span class="icon"></span> € 13,12 - € 16,98 per uur</li>
+            </ul>
+            <p>
+              Woon jij in Zwaansmeer, Blofsteeg of Smilderheul en ben je op zoek
+              naar een baan in de schoonmaak als vloerspecialist? Dan is dit
+              voor jou!
+            </p>
+            <button class="view-job">Bekijk vacature</button>
+          </div>
+
+          <div class="job-posting">
+            <p class="date">06/01/2025</p>
+            <h2 class="title">Achterlijk toffe titel van een vacature</h2>
+            <ul class="details">
+              <li><span class="icon"></span> Blofsteeg a/d Lek</li>
+              <li><span class="icon"></span> 8 tot 16 uur p.w.</li>
+              <li><span class="icon"></span> € 13,12 - € 16,98 per uur</li>
+            </ul>
+            <p>
+              Woon jij in Zwaansmeer, Blofsteeg of Smilderheul en ben je op zoek
+              naar een baan in de schoonmaak als vloerspecialist? Dan is dit
+              voor jou!
+            </p>
+            <button class="view-job">Bekijk vacature</button>
+          </div>
+
+          <div class="job-posting">
+            <p class="date">06/01/2025</p>
+            <h2 class="title">Achterlijk toffe titel van een vacature</h2>
+            <ul class="details">
+              <li><span class="icon"></span> Blofsteeg a/d Lek</li>
+              <li><span class="icon"></span> 8 tot 16 uur p.w.</li>
+              <li><span class="icon"></span> € 13,12 - € 16,98 per uur</li>
+            </ul>
+            <p class="description">
+              Woon jij in Zwaansmeer, Blofsteeg of Smilderheul en ben je op zoek
+              naar een baan in de schoonmaak als vloerspecialist? Dan is dit
+              voor jou!
+            </p>
+            <button class="view-job">Bekijk vacature</button>
+          </div>
+        </div>
+      </section>
     </main>
   </body>
 </html>
