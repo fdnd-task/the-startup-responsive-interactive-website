@@ -63,6 +63,6 @@ Bij _kenmerken_ toon je ook de _code conventies_ die je tijdens de workshop [Ref
 
 Presenteer je werk tijdens de sprint review aan de hand van de opdracht. Begin je presentatie met een korte uitleg van wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik tijdens de presentatie je Readme, met de punten van hierboven. Laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interactie(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent.
 
-Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. Misschien willen ze ook nog een code review doen? De kans om een professional naar jouw code te laten kijken!
+Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. Hoe gerichter je vragen, hoe beter de feedback. Misschien willen ze ook nog een code review doen? De kans om een professional naar jouw code te laten kijken!
 
 Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md
