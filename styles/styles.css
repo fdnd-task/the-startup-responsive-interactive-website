@@ -1,0 +1,429 @@
+/* =========== GENERAL RESET =========== */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--heading-font);
+}
+
+/* =========== CONTAINER STYLES =========== */
+.site {
+  text-align: center;
+}
+
+.site__header {
+  position: fixed;
+  width: var(--site-width);
+  height: 8rem;
+  background-color: var(--black);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  z-index: 2;
+}
+
+.site__logo-image {
+  position: absolute;
+  top: 2rem;
+  left: 1.4rem;
+  width: 8rem;
+  height: 8rem;
+  z-index: 3;
+
+  @media (min-width: 1024px) {
+    width: 10rem;
+    height: 10rem;
+  }
+}
+
+/* Header Buttons */
+.open-menu-btn,
+.close-menu-btn {
+  display: flex;
+  justify-content: flex-end;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin: 1rem;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  z-index: 3;
+
+  @media screen and (min-width: 960px) {
+    visibility: hidden;
+    opacity: 0;
+  }
+}
+
+.close-menu-btn {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* =========== end button styling open/ close =========== */
+
+.site__menu {
+  position: relative;
+
+  .site__menu-list {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    width: var(--site-width);
+    padding-top: 15rem;
+    padding-bottom: 3rem;
+    background-color: var(--black);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    transform: translateY(-100%);
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 2;
+
+    &:hover {
+      color: #ffc700;
+    }
+
+    @media (min-width: 1024px) {
+      display: flex;
+      justify-content: flex-end;
+      gap: 2rem;
+      padding: 3rem;
+      transform: none;
+      transition: none;
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+  .site__menu-item {
+    list-style: none;
+    margin: 1rem 0;
+  }
+
+  .site__menu-link {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-right: 2rem;
+
+    @media (min-width: 1024px) {
+      font-size: 1.3rem;
+      &:hover {
+        color: black;
+        border: 1px solid none;
+        background-color: #ffc700;
+        padding: 0.5rem;
+        border-radius: 0.1rem;
+      }
+      &:active {
+        color: black;
+        border: 1px solid none;
+        background-color: #ffc700;
+        padding: 0.5rem;
+        border-radius: 0.1rem;
+      }
+    }
+  }
+}
+
+.menu-open .site__menu-list {
+  transform: translateY(0);
+  visibility: visible;
+  opacity: 1;
+}
+
+.menu-open .close-menu-btn {
+  visibility: visible;
+  opacity: 1;
+}
+
+.menu-open .open-menu-btn {
+  visibility: hidden;
+  opacity: 0;
+}
+
+/* =========== END .header-menu =========== */
+
+/* =========== JOB LISTING STYLES =========== */
+
+.site__hero-image {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  .site__hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.site__hero-image::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom right, #000, rgba(0, 0, 0, 0.3));
+}
+.site__hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+
+  span {
+    color: #ffc700;
+  }
+
+  h1 {
+    font-size: 2rem;
+    color: white;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: white;
+  }
+
+  @media (min-width: 1024px) {
+    h1 {
+      font-size: 4rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
+  }
+}
+
+/* =========== VAKGEBIED FILTER =========== */
+
+.filter__container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2rem;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+@media (min-width: 1024px) {
+  .filter__container {
+    padding-left: 15rem;
+  }
+}
+
+@media (min-width: 2000px) {
+  .filter__container {
+    padding-left: 20rem;
+  }
+}
+.filter__toggle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 2rem;
+  gap: 1rem;
+
+  .filter__btn {
+    background: none;
+    border: none;
+    font-weight: bolder;
+    font-size: 1rem;
+  }
+}
+
+.filter__group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+
+  @media (min-width: 750px) {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+.filter__summary {
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 3px;
+  padding: 1rem;
+  border: 0;
+  color: #3a4149;
+  background: #e7ebee;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  font-size: 1rem;
+  list-style: none;
+  text-align: center;
+  z-index: 1;
+
+  &:hover {
+    color: black;
+    background: #fac608;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  }
+
+  @media (min-width: 750px) {
+    font-size: 1rem;
+    padding: 1.2rem;
+    text-align: center;
+  }
+
+  @media screen and (min-width: 1024px) {
+    text-align: center;
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+}
+
+.filter__options {
+  display: none;
+  position: absolute;
+  padding: 2rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 0.02rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  line-height: 2rem;
+  z-index: 1;
+
+  label {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  @media (min-width: 750px) {
+    grid-column: span 5;
+  }
+
+  @media (min-width: 1024px) {
+    grid-column: span 5;
+  }
+}
+
+details[open] .filter__options {
+  display: block;
+}
+
+.filter__show-more {
+  display: flex;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  background: none;
+  border: none;
+
+  :hover {
+    cursor: pointer;
+    color: #5f4e01;
+  }
+}
+
+/* =========== end  FILTER styling =========== */
+
+.job-listing-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  padding: 2rem;
+  text-align: left;
+}
+
+@media (min-width: 750px) {
+  .job-listing-container {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 1550px) {
+  .job-listing-container {
+    grid-template-columns: repeat(3, 1fr);
+    padding: 5rem 15rem;
+    top: 0;
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .job-listing-container {
+    padding: 5rem 15rem;
+  }
+}
+
+@media (min-width: 2000px) {
+  .job-listing-container {
+    padding: 5rem 20rem;
+  }
+}
+
+/* Job Posting */
+.job-posting {
+  cursor: pointer;
+  border: 1px solid #d9d9d9;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+  border-radius: 10px;
+  padding: 2rem;
+  line-height: 1.8;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Ensure space between content and button */
+  height: 100%; /* Ensures that the height of job postings are equal */
+  position: relative; /* For absolute positioning of the button */
+}
+
+.job-posting__date {
+  font-size: 0.9rem;
+  color: #d9d9d9;
+  margin-bottom: 1.1rem;
+}
+
+.job-posting__title {
+  color: #333;
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.job-posting__detail-item {
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+.job-posting__description {
+  color: #333;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+
+.job-posting__view-job {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1rem;
+  background: #ffc700;
+  border: 1px solid transparent;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+/* =========== END JOB POSTING =========== */
+
+/* =========== end  FILTER styling =========== */
