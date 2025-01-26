@@ -1,4 +1,4 @@
-# Active Collective / Ontdek de Schoonmaak
+# Active Collective x Ontdek de Schoonmaak
 
 ![Group 106](https://github.com/user-attachments/assets/3ba6b2c3-9db9-4243-b7f2-ace4520c22f4)
 
