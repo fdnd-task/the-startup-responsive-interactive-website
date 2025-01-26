@@ -42,38 +42,33 @@ De website is volledig responsief, zodat hij goed werkt op zowel desktop als mob
 
 ## Voorbeeld per breakpoint:
 
-### Desktop (1024px en groter)
-![Screenshot 2025-01-26 030717](https://github.com/user-attachments/assets/0b3bab0c-c3d3-41e6-99c3-d7517df30a15)
-
-
-### Tablet (768px - 1023px)
-
-![Screenshot 2025-01-26 041859](https://github.com/user-attachments/assets/bab28eb1-e68b-459a-a59a-627eafaeccdc)
-
-### Mobiel (768px en kleiner)
-
-
-![image](https://github.com/user-attachments/assets/83e8c354-892d-43f5-a452-1cd88c79fca7)
-
-
-
-
-
+### video 
 
 https://github.com/user-attachments/assets/7484c76c-6391-430c-afa6-ccd9cf070e34
 
 
+## Ontwerpkeuzes
 
+### Interactiviteit en Feedback
 
+De website maakt gebruik van verschillende interactieve elementen om de gebruikerservaring te verbeteren. Bijvoorbeeld:
 
+- **Hover-effecten** op knoppen geven de gebruiker visuele feedback zodat duidelijk is welke knoppen klikbaar zijn.
+- **Feedback bij het filteren**: Wanneer een gebruiker een filter toepast, worden de resultaten onmiddellijk bijgewerkt zonder dat de pagina opnieuw wordt geladen, wat de interactie naadloos maakt.
+  
+Deze interacties helpen de gebruiker zich bewust te maken van de acties die ze ondernemen, wat de algehele gebruikerservaring bevordert.
 
+### Gebruik van Filters
 
+Een belangrijk kenmerk van de vacaturepagina is de toevoeging van een **filtermenu**. Gebruikers kunnen filteren op verschillende criteria zoals:
 
+- Locatie
+- Functie
+- Werkuren
 
+Het filtermenu is ontworpen om gemakkelijk toegankelijk en intuïtief te zijn, zelfs op mobiele apparaten. Dit is gerealiseerd door het gebruik van een **dropdown-menu** dat de gebruiker in staat stelt de gewenste zoekcriteria te selecteren en onmiddellijk de vacaturelijst bijwerkt.
 
-
-
-
+![Group 5 (3)](https://github.com/user-attachments/assets/2fd2338b-6194-421e-9e0f-ea98ccb5060d)
 
 
 
