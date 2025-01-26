@@ -68,7 +68,8 @@ Een belangrijk kenmerk van de vacaturepagina is de toevoeging van een **filterme
 
 Het filtermenu is ontworpen om gemakkelijk toegankelijk en intuïtief te zijn, zelfs op mobiele apparaten. Dit is gerealiseerd door het gebruik van een **dropdown-menu** dat de gebruiker in staat stelt de gewenste zoekcriteria te selecteren en onmiddellijk de vacaturelijst bijwerkt.
 
-![Group 5 (3)](https://github.com/user-attachments/assets/2fd2338b-6194-421e-9e0f-ea98ccb5060d)
+![Group 5 (4)](https://github.com/user-attachments/assets/a35ed6e1-2909-468f-8804-35c170c9024e)
+
 
 
 
