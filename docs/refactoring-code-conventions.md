@@ -2,7 +2,7 @@
 
 ## Refactoring en Code Conventions
 
-_Code conventies_ zijn er om code overzichtelijk en goed onderhoudbaar te houden. In Sprint 2 heb je er een aantal van ons gekregen. Tijdens deze workshop kijken we terug naar deze conventies, en hoe je die toegepast hebt op je code van Sprint 6. Mochten er nog verbeterpunten naar boven komen, dan passen we die meteen doe. Dit noemen we _refactoren_.
+_Code conventies_ zijn er om code overzichtelijk en goed onderhoudbaar te houden. In Sprint 2 heb je er een aantal van ons gekregen. Tijdens deze workshop kijken we terug naar deze conventies, en hoe je die toegepast hebt op je code van Sprint 6. Mochten er nog verbeterpunten naar boven komen, dan passen we die meteen toe. Dit noemen we _refactoren_.
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
