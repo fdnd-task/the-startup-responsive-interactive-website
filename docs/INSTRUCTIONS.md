@@ -3,25 +3,25 @@
 Ontwerp en maak een responsive website voor een startup.
 
 ## Context
-Deze leertaak hoort bij sprint 6 _The Startup_. Dit is een leertaak die je individueel uitvoert.
+Deze leertaak hoort bij Sprint 6 _The Startup_. Dit is een leertaak die je individueel uitvoert.
 
 
 ## Doel van deze opdracht
 
-In het eerste semester van de opleiding FDND heb je veel geleerd over layout, responsive design, toegankelijkheid, interactie en het werken met een huisstijl. Je hebt kennis over HTML, CSS en (een beetje) JS. In deze sprint ga je alles (!) wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
+In het eerste semester van de opleiding FDND heb je veel geleerd over **layout**, **responsive design**, **toegankelijkheid**, **interactie** en het werken met een **huisstijl**. Je hebt kennis over HTML, CSS en (een beetje) JS. In deze sprint ga je alles (!) wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
 
 
 ## Werkwijze
 
-Op basis van een bestaand idee, concept of ontwerp ga je in 3 weken voor een opdrachtgever een responsive website met een interactie ontwerpen en maken.
+Op basis van een bestaand idee, concept of ontwerp ga je in 3 weken voor een opdrachtgever een toegankelijke responsive website met een interactie ontwerpen en maken.
 
 ### Planning
 
-* Maandag 6 januari krijg je een briefing bij de opdrachtgever. Tijdens de briefing maak je kennis met de onderneming en wordt besproken wat je gaat maken. 
+* Maandag 5 januari krijg je een briefing bij de opdrachtgever. Tijdens de briefing maak je kennis met de onderneming en wordt besproken wat je gaat maken. 
 
-* Donderdag 23 januari wordt de opdracht bij de opdrachtgever gepresenteerd en opgeleverd.
+* Donderdag 22 januari wordt de opdracht bij de opdrachtgever gepresenteerd en opgeleverd.
 
-* Vrijdag 24 januari vindt bij FDND een expo plaats met al jullie werk. Als je vrienden of familie eens wilt laten zien waar je zoal mee bezig bent, nodig ze hiervoor dan uit!
+* Vrijdag 23 januari vindt bij FDND een expo plaats met al jullie werk. Als je vrienden of familie eens wilt laten zien waar je zoal mee bezig bent, nodig ze hiervoor dan uit!
 
 ### Workshops
 
@@ -72,7 +72,8 @@ Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toeg
 ## Criteria
 
 Deze opdracht is done als:
-
+- [ ] ...
+<!--
 - [ ] De website staat op Github en heeft een live url
 - [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
 - [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
@@ -80,3 +81,4 @@ Deze opdracht is done als:
 - [ ] Je toont aan dat je in de bouwfase verschillende methoden en technieken hebt ingezet om het ontwerp te realiseren
 - [ ] Je toont aan dat je in de integratiefase verschillende methoden en technieken hebt ingezet om je website live te zetten
 - [ ] Je toont aan dat je in de testfase verschillende methoden en technieken hebt ingezet om het ontwerp te testen en verbeteren
+-->
