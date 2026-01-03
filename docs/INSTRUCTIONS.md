@@ -74,6 +74,18 @@ Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toeg
 Deze opdracht is done als:
 - [ ] ...
 <!--
+- iets over mobile first responsive layout - sprint 2
+- iets over toegankelijkheid en testen - sprint 3
+- iets over aantoonbare huisstijl - sprint 4
+- iets over interactie ontwerpen, maken en testen - sprint 5
+- iets over gestructureerd en iteratief werken met issues en commits - methodisch handelen
+- iets over briefing, review, en feedback verzamelen - communiceren opdrachtgever
+- iets over navolgbaar werken/documenteren: DLC terug kunnen zien in elk issue?
+-->
+
+
+<!--
+Vorig jaar:
 - [ ] De website staat op Github en heeft een live url
 - [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
 - [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
