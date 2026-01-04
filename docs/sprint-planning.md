@@ -34,6 +34,8 @@ Maak een schema op het whiteboard voor de komende 3 weken. Maak daarna samen sch
 
 Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 6, en voeg de planning van het schema toe.
 
+Deze sprint kan je ook verder werken aan de advanced opdrachtjes van de *Layout in CSS* deeltaak en *UI-events* deeltaak. Neem deze ook op in je projectboard en schrijf je in voor de workshops.
+
 Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdplanning. Zo kun je taken en issues ook een _tijdspad_ geven.
 
 ![](ghprojects-example-roadmap.webp)
