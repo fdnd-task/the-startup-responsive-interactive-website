@@ -8,7 +8,7 @@ Project plannen en de briefing voorbereiden.
 
 ### Aanpak
 
-Deze sprint krijg je een opdracht van een frontend bureau. In 3 weken ga je een responsive website met een interactie ontwerpen en maken. 
+Deze sprint krijg je een opdracht van een frontend bureau. In 3 weken ga je een toegankelijke en responsive website met een interactie ontwerpen en maken. 
 
 Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden. 
 Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen. 
@@ -25,10 +25,10 @@ Zet je issues in je nieuwe repo aan,
 
 ### Planning maken
 
-Teken een schema op het whiteboard voor de komende 3 weken.
-Bekijk het programma van Sprint 6 en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
+Omdat we elke vrijdag een code/design review doen kan je je daar op richten in je planning Wat moet je elke vrijdag afhebben om goede feebdack te krijgen?
 
-Belangrijke momenten zijn de code/design reviews op vrijdag; wat moet je elke week ongeveer afhebben? 
+Maak een schema op het whiteboard voor de komende 3 weken. Bekijk voor de vrijdagen en voor de oplevering bij de opdrachtgever wat je af moet hebben. Maak daarna samen schetsjes van wat je denkt af te moeten hebben.
+
 
 ### Projectboard
 
