@@ -69,7 +69,7 @@ Maak als eerste het ontwerp in HTML, voordat je met CSS begint. Je gaat de **Mob
 Maak een issue aan met de titel “Prototype naar HTML”, voeg schetsen en uitleg toe en koppel de commits van de _HTML_ die je gaat coderen aan het issue.
 Voeg het issue toe aan het project board met een *tijdspad*. Wanneer moet dit af zijn?
 
-Denk dus eerst na over de onderliggende structuur van je ontwerp. Volg hiervoor de instructies van de workshop [Prototyping](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md) uit Sprint 2.
+Denk dus eerst na over de onderliggende structuur van je ontwerp. Volg hiervoor de instructies van de workshop [Prototyping](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md) uit Sprint 2. Bedenk hierbij ook wat goede HTML betekent voor de [User Experience en Toegankelijkheid](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md), wat je in Sprint 3 hebt geleerd.
 
 ### One Column Layout
 Maak een issue aan met de titel “One Column Layout”, voeg een interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de _CSS_ die je gaat coderen aan het issue.
