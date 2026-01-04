@@ -74,7 +74,7 @@ Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toeg
 Deze opdracht is done als:
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
 - [ ] Je hebt gestructureerd en iteratief gewerkt met behulp van de mobile first aanpak en je werkwijze gedocumenteerd in issues
-- [ ] Jouw website voldoet aan de huisstijl van de opdrachtgever 
+- [ ] Jouw website is responsive en voldoet aan de huisstijl van de opdrachtgever 
 - [ ] Je hebt een WCAG audit en color contrast test gedaan op de opdracht van de opdrachtgever, de gevonden problemen gedocumenteerd en verholpen
 - [ ] Je hebt een of meerdere interacties ontworpen, gemaakt en getest, en de testresultaten gebruikt voor een nieuwe versie
 - [ ] Je hebt de ontwerpkeuzes voor jouw responsive, toegankelijke, interactieve website gedocumenteerd in de Readme
