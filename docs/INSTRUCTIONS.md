@@ -77,7 +77,7 @@ Deze opdracht is done als:
 - [ ] Jouw website is responsive en voldoet aan de huisstijl van de opdrachtgever 
 - [ ] Je hebt een WCAG audit en color contrast test gedaan op de opdracht van de opdrachtgever, de gevonden problemen gedocumenteerd en verholpen
 - [ ] Je hebt een of meerdere interacties ontworpen, gemaakt en getest, en de testresultaten gebruikt voor een nieuwe versie
-- [ ] Je hebt de ontwerpkeuzes voor jouw responsive, toegankelijke, interactieve website gedocumenteerd in de Readme
+- [ ] Je hebt de ontwerpkeuzes voor jouw responsive, toegankelijke, interactieve website gedocumenteerd in de Readme, je werk gepresenteerd tijdens de sprint review en de feedback opgeschreven
 
 
 <!--
