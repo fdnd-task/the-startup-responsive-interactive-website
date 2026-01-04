@@ -10,7 +10,6 @@ Deze leertaak hoort bij Sprint 6 _The Startup_. Dit is een leertaak die je indiv
 
 In het eerste semester van de opleiding FDND heb je veel geleerd over **layout**, **responsive design**, **toegankelijkheid**, **interactie** en het werken met een **huisstijl**. Je hebt kennis over HTML, CSS en (een beetje) JS. In deze sprint ga je alles (!) wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
 
-
 ## Werkwijze
 
 Op basis van een bestaand idee, concept of ontwerp ga je in 3 weken voor een opdrachtgever een toegankelijke responsive website met een interactie ontwerpen en maken.
@@ -69,15 +68,24 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je
 
 Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toegankelijkheid testen met lighthouse en handmatige tests, je bevindingen documenteren en bepalen of je nog een iteratie maakt.
  -->
+
 ## Criteria
 
 Deze opdracht is done als:
-- [ ] ...
+- [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
+- [ ] Je hebt gestructureerd en iteratief gewerkt met behulp van de mobile first aanpak en je werkwijze gedocumenteerd in issues
+- [ ] Jouw website voldoet aan de huisstijl van de opdrachtgever 
+- [ ] Je hebt een WCAG audit en color contrast test gedaan op de opdracht van de opdrachtgever, de gevonden problemen gedocumenteerd en verholpen
+- [ ] Je hebt een of meerdere interacties ontworpen, gemaakt en getest, en de testresultaten gebruikt voor een nieuwe versie
+- [ ] Je hebt de ontwerpkeuzes voor jouw responsive, toegankelijke, interactieve website gedocumenteerd in de Readme
+
+
 <!--
 - iets over mobile first responsive layout - sprint 2
 - iets over toegankelijkheid en testen - sprint 3
 - iets over aantoonbare huisstijl - sprint 4
 - iets over interactie ontwerpen, maken en testen - sprint 5
+
 - iets over gestructureerd en iteratief werken met issues en commits - methodisch handelen
 - iets over briefing, review, en feedback verzamelen - communiceren opdrachtgever
 - iets over navolgbaar werken/documenteren: DLC terug kunnen zien in elk issue?
