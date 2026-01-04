@@ -25,11 +25,19 @@ Zet je issues in je nieuwe repo aan.
 
 ### Planning maken
 
+<!--
 Omdat we elke vrijdag een code/design review doen, kan je je daar op richten in je planning. Wat moet je elke vrijdag afhebben om goede feedback te krijgen? Bekijk voor de vrijdagen en voor de oplevering bij de opdrachtgever wat je af moet hebben.
 
 Maak een schema op het whiteboard voor de komende 3 weken. Maak daarna samen schetsjes van hoe je denkt dat jouw opdracht er aan het eind van elke week uit ziet. Bekijk de verschillende workshops die op het programma staan en wat je dan gaat herhalen en leren.
+-->
 
-
+Voordat je gaat beginnen met het voorbereiden van de briefing kan je al een grove planning maken van de taken die je gaat uitvoeren. Omdat je dit al eerder hebt gedaan kan je terugkijken hoeveel tijd je daar tijdens een vorige sprint aan hebt gewerkt. 
+ 
+Lees de sprint planning samen door en noteer op het whiteboard welke taken je voor de Briefing/debriefing, Prototypen en One Column Layout moet doen. Kijk daarna terug naar vorige sprints en tel hoeveel uren je met dezelfde taken bent bezig geweest. Noteer het aantal uren en vergelijk dit met elkaar. 
+  
+Maak een nieuw projectboard aan en koppel het aan jouw repository van Sprint 6. Als je het project board op Roadmap zet, krijg je een overzicht met je taken en een tijdplanning. Voeg de taken toe aan het projectboard met een tijdspad. Doe daarna hetzelfde voor week 2 en week 3 met behulp van de programma-website.
+ 
+<!--
 ### Project board
 
 Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 6, en voeg de planning van het schema toe.
@@ -38,8 +46,11 @@ Deze sprint ga je ook verder werken aan de _advanced_ opdrachtjes van de *Layout
 
 Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdplanning. Zo kun je taken en issues ook een _tijdspad_ geven.
 
+-->
+
 ![](ghprojects-example-roadmap.webp)
 *De Roadmap-view van GitHub projects geeft een overzicht van taken en tijdsplanning.*
+
 
 ### Bronnen
 - [Changing the layout of a view - Github docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)
