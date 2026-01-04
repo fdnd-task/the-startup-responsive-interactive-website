@@ -25,9 +25,9 @@ Zet je issues in je nieuwe repo aan,
 
 ### Planning maken
 
-Omdat we elke vrijdag een code/design review doen kan je je daar op richten in je planning Wat moet je elke vrijdag afhebben om goede feebdack te krijgen?
+Omdat we elke vrijdag een code/design review doen kan je je daar op richten in je planning Wat moet je elke vrijdag afhebben om goede feebdack te krijgen? Bekijk voor de vrijdagen en voor de oplevering bij de opdrachtgever wat je af moet hebben.
 
-Maak een schema op het whiteboard voor de komende 3 weken. Bekijk voor de vrijdagen en voor de oplevering bij de opdrachtgever wat je af moet hebben. Maak daarna samen schetsjes van wat je denkt af te moeten hebben.
+Maak een schema op het whiteboard voor de komende 3 weken. Maak daarna samen schetsjes van hoe je denkt dat jouw opdracht er aan het eind van elke week uit ziet. 
 
 
 ### Projectboard
