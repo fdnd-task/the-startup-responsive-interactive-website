@@ -9,7 +9,7 @@ Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website M
 Vandaag ga je eerst met een groep een huisstijl review doen.
 Daarna doe je in duo's een review op de Mobile First code.
 Tot slot ga je aan de hand van een video geavanceerde tips & tricks voor Responsive Design leren en toepassen.
-Als je klaar bent, kan je meteen beginnen met het verwerken van de issues die je hebt gekregen.
+Als je klaar bent, kan je meteen beginnen met het verwerken van de issues die je hebt gekregen, en je project board bijwerken.
 
 Voer de instructies voor de code en design review stap voor stap uit:
 
