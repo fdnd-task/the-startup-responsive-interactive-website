@@ -19,6 +19,7 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 
 1. Bekijk in het schema hieronder welke opdrachten jullie gaan reviewen.
 
+<!--
 | Groep | Reviewt studenten van |
 |---|---|
 | **270 Degrees** | Milledoni |
@@ -33,6 +34,7 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 | **Informaat** | Drukwerkdeal |
 | **JUST** | ABN AMRO |
 | **DEPT** | Rideout |
+-->
 
 2. Bekijk om de beurt de repo van de studenten die je gaat reviewen. Lees met elkaar het issue met uitleg over de huisstijl (die heet waarschijnlijk 'One Column Layout'). 
    - **Feedback op uitleg**: Controleer of de issue voldoende informatie bevat om te begrijpen hoe de stylesheet werkt. Is het duidelijk hoe je de code kunt implementeren? Schrijf je feedback in het issue.
