@@ -17,7 +17,7 @@ Voer de instructies voor de code en design review stap voor stap uit:
 
 Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van andere studenten reviewen.
 
-1. Bekijk in het schema hieronder welke opdrachten jullie gaan reviewen.
+1. Bekijk in het schema hieronder welke groep jullie gaan reviewen.
 
 
 | Jouw groep | Jullie reviewen studenten van |
@@ -53,10 +53,7 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 
 ## 2) Mobile First review
 
-Review in duo's het werk van 2 andere studenten uit de andere squad. Iedereen krijgt vandaag 2 reviews!
-
-Schrijf eerst jouw naam op het whiteboard met de url van jouw repo + jouw squad. 
-Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit de andere squad.
+Review het werk van iedereen binnen jouw groep. Ga elke student één voor één langs. Gebruikt hiervoor de onderstaande checklist: 
 
 ### Prototype in HTML
 
@@ -64,19 +61,13 @@ Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit d
 
 2. Bekijk de website zonder CSS (via devtools kun je eventueel het `<link>` element uit de `<head>` verwijderen) en bepaal of deze logisch, duidelijk en bruikbaar is opgezet. Schrijf je gedachten in het “Prototype naar HTML” issue als reactie.
 
-3. Laat de heading structuur van de homepagina voorlezen door een tool. Je kan hiervoor een screenreader gebruiken of een browser extensie. Controleer of de heading levels correct zijn gebruikt. De volgende vragen kunnen je daarbij helpen: Is er een logische volgorde van de heading levels (`<h1>`, `<h2>`, `<h3>`, etc.)? Is er maar één `<h1>` op de pagina? Volgen de headings elkaar logisch op (bijvoorbeeld geen overslaan van `<h2>` naar `<h4>`)? Maak zo nodig hier een issue voor aan.
+3. Laat de heading structuur voorlezen door een tool. Je kan hiervoor een screenreader gebruiken of een browser extensie. Controleer of de heading levels correct zijn gebruikt. De volgende vragen kunnen je daarbij helpen: Is er een logische volgorde van de heading levels (`<h1>`, `<h2>`, `<h3>`, etc.)? Is er maar één `<h1>` op de pagina? Volgen de headings elkaar logisch op (bijvoorbeeld geen overslaan van `<h2>` naar `<h4>`)? Maak zo nodig hier een issue voor aan.
 
-4. Bekijk alle HTML elementen en gebruik de [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) om te checken of de juiste HTML elementen zijn gebruikt. Schrijf verbeteringen of suggesties over de gebruikte HTML als reactie in het “Prototype naar HTML” issue.
+4. Bekijk of de website gebruik maakt van `<a>` en/of `<button>`. Wordt het juiste HTML-element gebruikt voor links naar andere pagina's of externe bronnen? Tip: bekijk nog eens de workshop [user-experience-van-html](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#links). Maak zo nodig hier een issue voor aan.
 
-   - Bespreek de *Content sectioning*. Zijn de juiste elementen gebruikt voor bijvoorbeeld `<article>`, `<footer>`, `<header>`, `<section>`,  headings, `<main>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt.
+5. Zet afbeeldingen uit in je browser, of via de Web Developer extensie. Controleer of het juiste gebruik van het alt-attribuut wordt toegepast bij de <img> tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een alt-attribuut? Is de tekst in het alt-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het alt-attribuut kiezen? Waarom wel of niet? Maak zo nodig hier een issue voor aan.
 
-   - Zijn de juiste elementen gebruikt voor de *Text content*, zoals `<p>`, `<ol>`, `<li>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt. 
-
-   - Zijn de juiste elementen gebruikt voor de *Inline text semantics*, zoals  en `<a>`, `<strong>`, `<em>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt. 
-
-   - Bekijk of de website gebruik maakt van `<a>` en/of `<button>`. Wordt het juiste HTML-element gebruikt voor links naar andere pagina's of externe bronnen? Tip: bekijk nog eens de workshop [user-experience-van-html](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#links). Maak zo nodig hier een issue voor aan.
-
-   - Bekijk de HTML waarin afbeeldingen zijn opgenomen. Controleer of het juiste gebruik van het alt-attribuut wordt toegepast bij de `<img>` tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een alt-attribuut? Is de tekst in het alt-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het alt-attribuut kiezen? Waarom wel of niet? Gebruik eventueel ook de [Workshop uit Sprint 3](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#afbeeldingen). Maak zo nodig hier een issue voor aan.
+6. Bekijk of <input> elementen worden gebruikt. Controleer of de labels correct zijn gekoppeld aan de invoervelden. Beantwoord de volgende vragen: Heeft elk inputveld een gekoppeld <label> element? Kun je op het label klikken om het invoerveld te selecteren? Maak zo nodig hier een issue voor aan.
 
 ### Breakpoints
 
