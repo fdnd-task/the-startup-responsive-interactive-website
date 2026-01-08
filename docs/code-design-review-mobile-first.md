@@ -81,7 +81,7 @@ Behalve media queries zijn er in CSS geavanceerde technieken om ervoor te zorgen
 
 Bekijk de video [5 CSS Tips & Tricks for better Responsive Web Design](https://www.youtube.com/watch?v=2IV08sP9m3U). In de video worden een aantal geavanceerde technieken uitgelegd: Relative padding, Responsive font-sizes, Responsive images, Dynamic viewport height en het HTML `inert` attribuut.
 
-Maak een paar demo's in jouw i-love-web met de tips & tricks uit de video. Leg met comments uit hoe de technieken werken. Kopieer de code met comments naar je Learning Journal, zodat dit je dit later weer kan teruglezen... Maak een issue aan op je opdracht als je tips en tricks hebt gezien die je kan toepassen op de opdracht van de opdrachtgever.
+Maak een paar demo's in jouw i-love-web met de tips & tricks uit de video. Leg met comments uit hoe de technieken werken. Kopieer de code met comments naar je Learning Journal, zodat dit je dit later weer kan teruglezen. Maak een issue aan op je opdracht als je tips en tricks hebt gezien die je kan toepassen op de opdracht van de opdrachtgever.
 
 ## 4) Issues verwerken en Project board bijwerken
 
