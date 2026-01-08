@@ -85,13 +85,10 @@ Maak een paar demo's in jouw i-love-web met de tips & tricks uit de video. Leg m
 
 ## 4) Issues verwerken en Project board bijwerken
 
-Je hebt vandaag veel feedback gekregen op je One Column Layout en Mobile First. Bekijk alle issues die je hebt gekregen. Fix de issues waar je niet meer dan 10 minuten voor nodig hebt meteen. Maak voor de issues waar je meer tijd voor nodig hebt een nieuwe taak aan, voeg deze toe aan je project board en geef het een *tijdspad*.
+Je hebt vandaag veel feedback gekregen op je One Column Layout en Mobile First. Bekijk alle issues die je hebt gekregen. <!-- Fix de issues waar je niet meer dan 10 minuten voor nodig hebt meteen. --> Maak <!--voor de issues waar je meer tijd voor nodig hebt--> een nieuwe taak aan, voeg deze toe aan je project board en geef het een *tijdspad*.
 
-💪 Als je verschillende feedback hebt gekregen kan je hier een [takenlijstje](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists) van maken, hier kan je vervolgens sub-issues van  maken. 
+💪 Als je verschillende feedback hebt gekregen kan je hier een [takenlijstje](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists) van maken, hier kan je vervolgens sub-issues van maken. 
 
 
 ### Project board bijwerken
 Maandag heb je tijdens de sprint planning een grove planning gemaakt met een uren inschatting. Doorloop de verschillende taken en bekijk of de geschatte uren kloppen met de tijd die je daadwerkelijk aan de taken hebt besteed. Pas zo nodig de uren aan, hier leer je van.
-
-
-
