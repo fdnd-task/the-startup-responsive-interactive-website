@@ -13,7 +13,7 @@ Als je klaar bent, kan je meteen beginnen met het verwerken van de issues die je
 
 Voer de instructies voor de code en design review stap voor stap uit:
 
-## Huisstijl review
+## 1) Huisstijl review
 
 Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van andere studenten reviewen.
 
@@ -51,7 +51,7 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 
    - **Herhaling van code**: Bekijk of er onnodige herhaling van code is. Als vaak dezelfde stijlen worden herhaald, kijk dan of dit simpeler kan door custom properties of herbruikbare classes te gebruiken.
 
-## Mobile First review
+## 2) Mobile First review
 
 Review in duo's het werk van 2 andere studenten uit de andere squad. Iedereen krijgt vandaag 2 reviews!
 
@@ -84,7 +84,7 @@ Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit d
 2. Bekijk daarna de `media queries`, kijk naar de aanroep, is de `media query` genest? Check de media features die zijn gebruikt en de conditie waaraan voldaan moet worden. Valt je iets op? Schrijf dan een issue. 
 
 
-## 5 CSS Tips & Tricks for better Responsive Web Design 
+## 3) 5 CSS Tips & Tricks for better Responsive Web Design 
 
 Behalve media queries zijn er in CSS geavanceerde technieken om ervoor te zorgen dat je website het goed doet op verschillende schermgroottes. 
 
@@ -92,7 +92,7 @@ Bekijk de video [5 CSS Tips & Tricks for better Responsive Web Design](https://w
 
 Maak een paar demo's in jouw i-love-web met de tips & tricks uit de video. Leg met comments uit hoe de technieken werken. Kopieer de code met comments naar je Learning Journal, zodat dit je dit later weer kan teruglezen... Maak een issue aan op je opdracht als je tips en tricks hebt gezein die je kan toepassen op de opdracht van de opdrachtgever.
 
-## Issues verwerken en Project board bijwerken
+## 4) Issues verwerken en Project board bijwerken
 
 Je hebt vandaag veel feedback gekregen op je One Column Layout en Mobile First. Bekijk alle issues die je hebt gekregen. Fix de issues waar je niet meer dan 10 minuten voor nodig hebt meteen. Maak voor de issues waar je meer tijd voor nodig hebt een nieuwe taak aan, voeg deze toe aan je project board en geef het een *tijdspad*.
 
