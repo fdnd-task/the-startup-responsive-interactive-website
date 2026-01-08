@@ -2,7 +2,7 @@
 
 ## Code/Design review Mobile First
 
-Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website Mobile First te bouwen. Als het goed is en je zit op schema heb je nu een HTML prototype gemaakt, heb je de huisstijl geanalyseerd en toegepast op een One Column Layout, en ben je begonnen met de responsive layout bouwen.
+Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website Mobile First te bouwen. Als je op schema ligt, heb je nu een HTML-prototype gemaakt, de huisstijl geanalyseerd en toegepast in een One-Column Layout, en ben je begonnen met het bouwen van de responsive layout.
 
 ## Aanpak
 
@@ -19,25 +19,23 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 
 1. Bekijk in het schema hieronder welke opdrachten jullie gaan reviewen.
 
-<!--
-| Groep | Reviewt studenten van |
+
+| Jouw groep | Jullie reviewen studenten van |
 |---|---|
-| **270 Degrees** | Milledoni |
-| **Lab Digital** | Informaat |
-| **Active Collective** | JUST |
-| **Future Ready Design** | DEPT |
-| **Funda** | 270 Degrees |
-| **Drukwerkdeal** | Lab Digital |
-| **ABN AMRO** | Active Collective  |
-| **Rideout** | Future Ready Design |
-| **Milledoni** | Funda |
-| **Informaat** | Drukwerkdeal |
-| **JUST** | ABN AMRO |
-| **DEPT** | Rideout |
--->
+| **Campspace** | DEPT |
+| **De Voorhoede** | Campspace |
+| **Decathlon** | Label Vier |
+| **DEPT** | Soundslice |
+| **Label Vier** | Werktijden.nl |
+| **Soundslice** | Assist Digital (The Valley) |
+| **Assist Digital (The Valley)** | Funda  |
+| **Triple** | Decathlon |
+| **Werktijden.nl** | De Voorhoede |
+| **Funda** | Triple |
+
 
 2. Bekijk om de beurt de repo van de studenten die je gaat reviewen. Lees met elkaar het issue met uitleg over de huisstijl (die heet waarschijnlijk 'One Column Layout'). 
-   - **Feedback op uitleg**: Controleer of de issue voldoende informatie bevat om te begrijpen hoe de stylesheet werkt. Is het duidelijk hoe je de code kunt implementeren? Schrijf je feedback in het issue.
+   - **Feedback op issue**: Controleer of de issue voldoende informatie bevat om te begrijpen hoe de stylesheet werkt. Is het duidelijk hoe je de code kunt implementeren? Schrijf je feedback in het issue.
 
 3. **Code Review Checklist**: Doorloop de volgende vragen om de kwaliteit van de stylesheet te beoordelen. Schiet waar nodig een issue in.
 
@@ -47,11 +45,11 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
    
    - **Naamgeving en begrijpelijkheid**: Is de naamgeving van variabelen en classes gemakkelijk te volgen? 
 
-   - **Volledigheid van de stylesheet**: Bevat de stylesheet voldoende elementen en states voor een volledige implementatie? Let op states zoals hover, active en focus voor links en knoppen, en controleer of formulieren (inputvelden, foutmeldingen) ook zijn opgenomen.
+   - **Volledigheid van de stylesheet**: Bevat de stylesheet voldoende elementen en states voor een volledige implementatie? Let op states zoals hover, active en focus voor links en knoppen, en controleer of formulieren (inputvelden, foutmeldingen) ook zijn opgenomen. Pak waar nodig het Figma bestand erbij om te kijken of de belangrijkste elementen terug te vinden zijn in de styleguide.
 
-   - **Custom properties op juiste element**: Worden de custom properties op de juiste plaats toegepast? Bijvoorbeeld, worden custom properties op de `:root` gedefinieerd? Is dat een bewuste keuze? Of zou het ook op de `body` kunnen?
+   - **Custom properties op juiste element**: Worden custom properties juist ingezet? Beschrijven de CSS custom properties waar de kleur voor gebruikt wordt, in plaats van welke kleur het is? En worden de custom properties op de juiste plaats toegepast? Bijvoorbeeld, worden custom properties op de :root gedefinieerd? Is dat een bewuste keuze? Of zou het ook op de body kunnen?
 
-   - **Herhaling van code**: Bekijk of er onnodige herhaling van code is. Als er vaak dezelfde stijlen worden herhaald, kijk dan of dit simpeler kan door variabelen of mixins te gebruiken.
+   - **Herhaling van code**: Bekijk of er onnodige herhaling van code is. Als vaak dezelfde stijlen worden herhaald, kijk dan of dit simpeler kan door custom properties of herbruikbare classes te gebruiken.
 
 ## Mobile First review
 
