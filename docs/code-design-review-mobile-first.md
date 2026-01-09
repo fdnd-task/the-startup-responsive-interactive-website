@@ -41,7 +41,7 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 
    - **Indeling van de stylesheet**: Is de structuur van de stylesheet logisch? Zijn secties goed ingedeeld (bijv. kleuren, typografie, knoppen) zodat ze eenvoudig terug te vinden zijn?
    
-   - **Consistente naamgeving**: Is de naamgeving consisitent? Kijk of er een consistente schrijfwijze is gekozen (zoals kebab-case voor CSS-variabelen of selectors, bijvoorbeeld `--font-size-large`).
+   - **Consistente naamgeving**: Is de naamgeving consistent? Kijk of er een consistente schrijfwijze is gekozen (zoals kebab-case voor CSS-variabelen of selectors, bijvoorbeeld `--font-size-large`).
    
    - **Naamgeving en begrijpelijkheid**: Is de naamgeving van variabelen en classes gemakkelijk te volgen? 
 
@@ -65,9 +65,9 @@ Review het werk van iedereen binnen jouw groep. Ga elke student één voor één
 
 4. Bekijk of de website gebruik maakt van `<a>` en/of `<button>`. Wordt het juiste HTML-element gebruikt voor links naar andere pagina's of externe bronnen? Tip: bekijk nog eens de workshop [user-experience-van-html](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#links). Maak zo nodig hier een issue voor aan.
 
-5. Zet afbeeldingen uit in je browser, of via de Web Developer extensie. Controleer of het juiste gebruik van het alt-attribuut wordt toegepast bij de <img> tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een alt-attribuut? Is de tekst in het alt-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het alt-attribuut kiezen? Waarom wel of niet? Maak zo nodig hier een issue voor aan.
+5. Zet afbeeldingen uit in je browser, of via de Web Developer extensie. Controleer of het juiste gebruik van het `alt`-attribuut wordt toegepast bij de `<img>` tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een `alt`-attribuut? Is de tekst in het `alt`-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het `alt`-attribuut kiezen? Waarom wel of niet? Maak zo nodig hier een issue voor aan.
 
-6. Bekijk of <input> elementen worden gebruikt. Controleer of de labels correct zijn gekoppeld aan de invoervelden. Beantwoord de volgende vragen: Heeft elk inputveld een gekoppeld <label> element? Kun je op het label klikken om het invoerveld te selecteren? Maak zo nodig hier een issue voor aan.
+6. Bekijk of `<input>` elementen worden gebruikt. Controleer of de labels correct zijn gekoppeld aan de invoervelden. Beantwoord de volgende vragen: Heeft elk inputveld een gekoppeld `<label>` element? Kun je op het label klikken om het invoerveld te selecteren? Maak zo nodig hier een issue voor aan.
 
 ### Breakpoints
 
