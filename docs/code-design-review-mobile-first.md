@@ -53,7 +53,7 @@ Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van
 
 ## 2) Mobile First review
 
-Review het werk van iedereen binnen jouw groep. Ga elke student één voor één langs. Gebruikt hiervoor de onderstaande checklist: 
+Review het werk van iedereen binnen jouw groep. Ga elke student één voor één langs. Gebruik hiervoor de onderstaande checklist: 
 
 ### Prototype in HTML
 
