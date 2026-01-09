@@ -67,7 +67,7 @@ Review het werk van iedereen binnen jouw groep. Ga elke student één voor één
 
 5. Zet afbeeldingen uit in je browser, of via de Web Developer extensie. Controleer of het juiste gebruik van het `alt`-attribuut wordt toegepast bij de `<img>` tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een `alt`-attribuut? Is de tekst in het `alt`-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het `alt`-attribuut kiezen? Waarom wel of niet? Maak zo nodig hier een issue voor aan.
 
-6. Bekijk of `<input>` elementen worden gebruikt. Controleer of de labels correct zijn gekoppeld aan de invoervelden. Beantwoord de volgende vragen: Heeft elk inputveld een gekoppeld `<label>` element? Kun je op het label klikken om het invoerveld te selecteren? Maak zo nodig hier een issue voor aan.
+6. Bekijk of `<input>` elementen worden gebruikt. Controleer of de `<label>`s correct zijn gekoppeld aan de invoervelden. Beantwoord de volgende vragen: Heeft elk inputveld een gekoppeld `<label>` element? Kun je op het label klikken om het invoerveld te selecteren? Maak zo nodig hier een issue voor aan.
 
 ### Breakpoints
 
