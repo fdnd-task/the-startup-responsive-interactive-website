@@ -20,25 +20,19 @@ Analyseer onderstaande microinteracties. Teken de interactie en animatie op het 
 ### Buttons
 
 #### Submit
-<video src="microinteractie-submit.mp4" width="320" controls></video>
+<video src="https://github.com/user-attachments/assets/9ff67500-f7f9-4ccf-a5c5-834525e19d14" width="320" controls></video>
 
 #### Add to chart
-<video src="microinteractie-addtochart.mp4" width="320" controls></video>
+<video src="https://github.com/user-attachments/assets/d1f97bc5-dadc-4628-b3c3-2f29ce694914" width="320" controls></video>
 
-#### Generat site
-<video src="microinteractie-generatesite.mp4" width="320" controls></video>
-
+#### Generate site
+<video src="https://github.com/user-attachments/assets/41dffcbe-e7f2-461f-8886-6107914aede9" width="320" controls></video>
 
 ### Details
-
-<video src="microinteractie-details.mp4" width="640"  controls></video>
-
+<video src="https://github.com/user-attachments/assets/27e1066c-206b-4e43-93a2-0a83584dbef2" width="640"  controls></video>
 
 ### Carousel
-
-<video src="microinteractie-carousel.mp4" width="640"  controls></video>
-
-
+<video src="https://github.com/user-attachments/assets/f26df4cb-c994-46f0-8c7f-fa4fc8a5b9ed" width="640"  controls></video>
 
 ## interactie ontwerpen, maken en testen
 
