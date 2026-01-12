@@ -2,7 +2,7 @@
 
 ## Code/Design review Mobile First
 
-Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website Mobile First te bouwen. Als het goed is en je zit op schema heb je nu een HTML prototype gemaakt, heb je de huisstijl geanalyseerd en toegepast op een One Column Layout, en ben je begonnen met de responsive layout bouwen.
+Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website Mobile First te bouwen. Als je op schema ligt, heb je nu een HTML-prototype gemaakt, de huisstijl geanalyseerd en toegepast in een One-Column Layout, en ben je begonnen met het bouwen van de responsive layout.
 
 ## Aanpak
 
@@ -13,52 +13,47 @@ Als je klaar bent, kan je meteen beginnen met het verwerken van de issues die je
 
 Voer de instructies voor de code en design review stap voor stap uit:
 
-## Huisstijl review
+## 1) Huisstijl review
 
 Je gaat met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk van andere studenten reviewen.
 
-1. Bekijk in het schema hieronder welke opdrachten jullie gaan reviewen.
+1. Bekijk in het schema hieronder welke groep jullie gaan reviewen.
 
-<!--
-| Groep | Reviewt studenten van |
+
+| Jouw groep | Jullie reviewen studenten van |
 |---|---|
-| **270 Degrees** | Milledoni |
-| **Lab Digital** | Informaat |
-| **Active Collective** | JUST |
-| **Future Ready Design** | DEPT |
-| **Funda** | 270 Degrees |
-| **Drukwerkdeal** | Lab Digital |
-| **ABN AMRO** | Active Collective  |
-| **Rideout** | Future Ready Design |
-| **Milledoni** | Funda |
-| **Informaat** | Drukwerkdeal |
-| **JUST** | ABN AMRO |
-| **DEPT** | Rideout |
--->
+| **Campspace** | DEPT |
+| **De Voorhoede** | Campspace |
+| **Decathlon** | Label Vier |
+| **DEPT** | Soundslice |
+| **Label Vier** | Werktijden.nl |
+| **Soundslice** | Assist Digital (The Valley) |
+| **Assist Digital (The Valley)** | Funda  |
+| **Triple** | Decathlon |
+| **Werktijden.nl** | De Voorhoede |
+| **Funda** | Triple |
+
 
 2. Bekijk om de beurt de repo van de studenten die je gaat reviewen. Lees met elkaar het issue met uitleg over de huisstijl (die heet waarschijnlijk 'One Column Layout'). 
-   - **Feedback op uitleg**: Controleer of de issue voldoende informatie bevat om te begrijpen hoe de stylesheet werkt. Is het duidelijk hoe je de code kunt implementeren? Schrijf je feedback in het issue.
+   - **Feedback op issue**: Controleer of de issue voldoende informatie bevat om te begrijpen hoe de stylesheet werkt. Is het duidelijk hoe je de code kunt implementeren? Schrijf je feedback in het issue.
 
 3. **Code Review Checklist**: Doorloop de volgende vragen om de kwaliteit van de stylesheet te beoordelen. Schiet waar nodig een issue in.
 
    - **Indeling van de stylesheet**: Is de structuur van de stylesheet logisch? Zijn secties goed ingedeeld (bijv. kleuren, typografie, knoppen) zodat ze eenvoudig terug te vinden zijn?
    
-   - **Consistente naamgeving**: Is de naamgeving consisitent? Kijk of er een consistente schrijfwijze is gekozen (zoals kebab-case voor CSS-variabelen of selectors, bijvoorbeeld `--font-size-large`).
+   - **Consistente naamgeving**: Is de naamgeving consistent? Kijk of er een consistente schrijfwijze is gekozen (zoals kebab-case voor CSS-variabelen of selectors, bijvoorbeeld `--font-size-large`).
    
    - **Naamgeving en begrijpelijkheid**: Is de naamgeving van variabelen en classes gemakkelijk te volgen? 
 
-   - **Volledigheid van de stylesheet**: Bevat de stylesheet voldoende elementen en states voor een volledige implementatie? Let op states zoals hover, active en focus voor links en knoppen, en controleer of formulieren (inputvelden, foutmeldingen) ook zijn opgenomen.
+   - **Volledigheid van de stylesheet**: Bevat de stylesheet voldoende elementen en states voor een volledige implementatie? Let op states zoals hover, active en focus voor links en knoppen, en controleer of formulieren (inputvelden, foutmeldingen) ook zijn opgenomen. Pak waar nodig het Figma bestand erbij om te kijken of de belangrijkste elementen terug te vinden zijn in de styleguide.
 
-   - **Custom properties op juiste element**: Worden de custom properties op de juiste plaats toegepast? Bijvoorbeeld, worden custom properties op de `:root` gedefinieerd? Is dat een bewuste keuze? Of zou het ook op de `body` kunnen?
+   - **Custom properties op juiste element**: Worden custom properties juist ingezet? Beschrijven de CSS custom properties waar de kleur voor gebruikt wordt, in plaats van welke kleur het is? En worden de custom properties op de juiste plaats toegepast? Bijvoorbeeld, worden custom properties op de :root gedefinieerd? Is dat een bewuste keuze? Of zou het ook op de body kunnen?
 
-   - **Herhaling van code**: Bekijk of er onnodige herhaling van code is. Als er vaak dezelfde stijlen worden herhaald, kijk dan of dit simpeler kan door variabelen of mixins te gebruiken.
+   - **Herhaling van code**: Bekijk of er onnodige herhaling van code is. Als vaak dezelfde stijlen worden herhaald, kijk dan of dit simpeler kan door custom properties of herbruikbare classes te gebruiken.
 
-## Mobile First review
+## 2) Mobile First review
 
-Review in duo's het werk van 2 andere studenten uit de andere squad. Iedereen krijgt vandaag 2 reviews!
-
-Schrijf eerst jouw naam op het whiteboard met de url van jouw repo + jouw squad. 
-Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit de andere squad.
+Review het werk van iedereen binnen jouw groep. Ga elke student één voor één langs. Gebruik hiervoor de onderstaande checklist: 
 
 ### Prototype in HTML
 
@@ -66,19 +61,13 @@ Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit d
 
 2. Bekijk de website zonder CSS (via devtools kun je eventueel het `<link>` element uit de `<head>` verwijderen) en bepaal of deze logisch, duidelijk en bruikbaar is opgezet. Schrijf je gedachten in het “Prototype naar HTML” issue als reactie.
 
-3. Laat de heading structuur van de homepagina voorlezen door een tool. Je kan hiervoor een screenreader gebruiken of een browser extensie. Controleer of de heading levels correct zijn gebruikt. De volgende vragen kunnen je daarbij helpen: Is er een logische volgorde van de heading levels (`<h1>`, `<h2>`, `<h3>`, etc.)? Is er maar één `<h1>` op de pagina? Volgen de headings elkaar logisch op (bijvoorbeeld geen overslaan van `<h2>` naar `<h4>`)? Maak zo nodig hier een issue voor aan.
+3. Laat de heading structuur voorlezen door een tool. Je kan hiervoor een screenreader gebruiken of een browser extensie. Controleer of de heading levels correct zijn gebruikt. De volgende vragen kunnen je daarbij helpen: Is er een logische volgorde van de heading levels (`<h1>`, `<h2>`, `<h3>`, etc.)? Is er maar één `<h1>` op de pagina? Volgen de headings elkaar logisch op (bijvoorbeeld geen overslaan van `<h2>` naar `<h4>`)? Maak zo nodig hier een issue voor aan.
 
-4. Bekijk alle HTML elementen en gebruik de [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) om te checken of de juiste HTML elementen zijn gebruikt. Schrijf verbeteringen of suggesties over de gebruikte HTML als reactie in het “Prototype naar HTML” issue.
+4. Bekijk of de website gebruik maakt van `<a>` en/of `<button>`. Wordt het juiste HTML-element gebruikt voor links naar andere pagina's of externe bronnen? Tip: bekijk nog eens de workshop [user-experience-van-html](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#links). Maak zo nodig hier een issue voor aan.
 
-   - Bespreek de *Content sectioning*. Zijn de juiste elementen gebruikt voor bijvoorbeeld `<article>`, `<footer>`, `<header>`, `<section>`,  headings, `<main>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt.
+5. Zet afbeeldingen uit in je browser, of via de Web Developer extensie. Controleer of het juiste gebruik van het `alt`-attribuut wordt toegepast bij de `<img>` tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een `alt`-attribuut? Is de tekst in het `alt`-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het `alt`-attribuut kiezen? Waarom wel of niet? Maak zo nodig hier een issue voor aan.
 
-   - Zijn de juiste elementen gebruikt voor de *Text content*, zoals `<p>`, `<ol>`, `<li>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt. 
-
-   - Zijn de juiste elementen gebruikt voor de *Inline text semantics*, zoals  en `<a>`, `<strong>`, `<em>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt. 
-
-   - Bekijk of de website gebruik maakt van `<a>` en/of `<button>`. Wordt het juiste HTML-element gebruikt voor links naar andere pagina's of externe bronnen? Tip: bekijk nog eens de workshop [user-experience-van-html](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#links). Maak zo nodig hier een issue voor aan.
-
-   - Bekijk de HTML waarin afbeeldingen zijn opgenomen. Controleer of het juiste gebruik van het alt-attribuut wordt toegepast bij de `<img>` tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een alt-attribuut? Is de tekst in het alt-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het alt-attribuut kiezen? Waarom wel of niet? Gebruik eventueel ook de [Workshop uit Sprint 3](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/user-experience-van-html.md#afbeeldingen). Maak zo nodig hier een issue voor aan.
+6. Bekijk of `<input>` elementen worden gebruikt. Controleer of de `<label>`s correct zijn gekoppeld aan de invoervelden. Beantwoord de volgende vragen: Heeft elk inputveld een gekoppeld `<label>` element? Kun je op het label klikken om het invoerveld te selecteren? Maak zo nodig hier een issue voor aan.
 
 ### Breakpoints
 
@@ -86,23 +75,20 @@ Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit d
 2. Bekijk daarna de `media queries`, kijk naar de aanroep, is de `media query` genest? Check de media features die zijn gebruikt en de conditie waaraan voldaan moet worden. Valt je iets op? Schrijf dan een issue. 
 
 
-## 5 CSS Tips & Tricks for better Responsive Web Design 
+## 3) 5 CSS Tips & Tricks for better Responsive Web Design 
 
 Behalve media queries zijn er in CSS geavanceerde technieken om ervoor te zorgen dat je website het goed doet op verschillende schermgroottes. 
 
-Bekijk de video [5 CSS Tips & Tricks for better Responsive Web Design](https://www.youtube.com/watch?v=2IV08sP9m3U). In de video worden een aantal geavanceerde technieken uitgelegd: Relative padding, Responsive font-sizes, Responsive images, Dynamic viewport height en het HTML `inert` attribuur.
+Bekijk de video [5 CSS Tips & Tricks for better Responsive Web Design](https://www.youtube.com/watch?v=2IV08sP9m3U). In de video worden een aantal geavanceerde technieken uitgelegd: Relative padding, Responsive font-sizes, Responsive images, Dynamic viewport height en het HTML `inert` attribuut.
 
-Maak een paar demo's in jouw i-love-web met de tips & tricks uit de video. Leg met comments uit hoe de technieken werken. Kopieer de code met comments naar je Learning Journal, zodat dit je dit later weer kan teruglezen... Maak een issue aan op je opdracht als je tips en tricks hebt gezein die je kan toepassen op de opdracht van de opdrachtgever.
+Maak een paar demo's in jouw i-love-web met de tips & tricks uit de video. Leg met comments uit hoe de technieken werken. Kopieer de code met comments naar je Learning Journal, zodat dit je dit later weer kan teruglezen. Maak een issue aan op je opdracht als je tips en tricks hebt gezien die je kan toepassen op de opdracht van de opdrachtgever.
 
-## Issues verwerken en Project board bijwerken
+## 4) Issues verwerken en Project board bijwerken
 
-Je hebt vandaag veel feedback gekregen op je One Column Layout en Mobile First. Bekijk alle issues die je hebt gekregen. Fix de issues waar je niet meer dan 10 minuten voor nodig hebt meteen. Maak voor de issues waar je meer tijd voor nodig hebt een nieuwe taak aan, voeg deze toe aan je project board en geef het een *tijdspad*.
+Je hebt vandaag veel feedback gekregen op je One Column Layout en Mobile First. Bekijk alle issues die je hebt gekregen. <!-- Fix de issues waar je niet meer dan 10 minuten voor nodig hebt meteen. --> Maak <!--voor de issues waar je meer tijd voor nodig hebt--> een nieuwe taak aan, voeg deze toe aan je project board en geef het een *tijdspad*.
 
-💪 Als je verschillende feedback hebt gekregen kan je hier een [takenlijstje](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists) van maken, hier kan je vervolgens sub-issues van  maken. 
+💪 Als je verschillende feedback hebt gekregen kan je hier een [takenlijstje](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists) van maken, hier kan je vervolgens sub-issues van maken. 
 
 
 ### Project board bijwerken
 Maandag heb je tijdens de sprint planning een grove planning gemaakt met een uren inschatting. Doorloop de verschillende taken en bekijk of de geschatte uren kloppen met de tijd die je daadwerkelijk aan de taken hebt besteed. Pas zo nodig de uren aan, hier leer je van.
-
-
-
