@@ -13,26 +13,36 @@ Joshua Porter, user experience designer, schrijft:
 
 
 ## Microinteracties
+Microinteracties zijn kleine, subtiele animaties na een interactie. Bijvoorbeeld een “like”-hartje dat beweegt als je erop klikt, een laadindicator als je iets download of upload, of een knop die van kleur verandert als je eroverheen beweegt. Een geslaagde microinteractie maakt een interface prettig om te gebruiken. 
 
-Analyseer onderstaande microinteracties. Teken de interactie en animatie op het whiteboard. Geef aan hoe feedforward en feedback is ontworpen en gemaakt. 
-
+Analyseer onderstaande voorbeelden van microinteracties. Teken de interactie en animatie op het whiteboard. Geef aan hoe feedforward en feedback is ontworpen en gemaakt. 
 
 ### Buttons
 
 #### Submit
 <video src="https://github.com/user-attachments/assets/9ff67500-f7f9-4ccf-a5c5-834525e19d14" width="320" controls></video>
+<!-- 3 stappenplan -->
+<!-- loader -->
+<!-- Confetti -->
 
 #### Add to chart
 <video src="https://github.com/user-attachments/assets/d1f97bc5-dadc-4628-b3c3-2f29ce694914" width="320" controls></video>
+<!-- https://web.dev/articles/css-border-animations -->
+<!-- CSS Animatie -->
 
 #### Generate site
 <video src="https://github.com/user-attachments/assets/41dffcbe-e7f2-461f-8886-6107914aede9" width="320" controls></video>
+<!-- https://web.dev/articles/css-border-animations -->
+<!-- https://css-tricks.com/playing-with-particles-using-the-web-animations-api/ -->
+<!-- https://css-tricks.com/playing-with-particles-using-the-web-animations-api/ -->
 
 ### Details
 <video src="https://github.com/user-attachments/assets/27e1066c-206b-4e43-93a2-0a83584dbef2" width="640"  controls></video>
+<!-- https://developer.chrome.com/blog/styling-details -->
 
 ### Carousel
 <video src="https://github.com/user-attachments/assets/f26df4cb-c994-46f0-8c7f-fa4fc8a5b9ed" width="640"  controls></video>
+<!-- https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Overflow/Carousels -->
 
 ## interactie ontwerpen, maken en testen
 
