@@ -12,7 +12,35 @@ Joshua Porter, user experience designer, schrijft:
 > Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn - Joshua Porter, [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 
 
-### Aanpak
+## Microinteracties
+
+Analyseer onderstaande microinteracties. Teken de interactie en animatie op het whiteboard. Geef aan hoe feedforward en feedback is ontworpen en gemaakt. 
+
+
+### Buttons
+
+#### Submit
+<video src="microinteractie-submit.mp4" width="320" controls></video>
+
+#### Add to chart
+<video src="microinteractie-addtochart.mp4" width="320" controls></video>
+
+#### Generat site
+<video src="microinteractie-generatesite.mp4" width="320" controls></video>
+
+
+### Details
+
+<video src="microinteractie-details.mp4" width="640"  controls></video>
+
+
+### Carousel
+
+<video src="microinteractie-carousel.mp4" width="640"  controls></video>
+
+
+
+## interactie ontwerpen, maken en testen
 
 Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je de interactie uitwerken in een nette Wireflow (of Screenflow), zodat je goed weet wat je gaat bouwen. Onderzoek voordat je gaat bouwen welke technieken je nodig hebt, maak een breakdown-schets zodat je een goed technisch plan hebt. 
 
