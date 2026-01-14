@@ -34,6 +34,7 @@ Deel de links van je animaties daarna op Teams, met een duidelijke beschrijving 
 - [Keyframe animations @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 - [`transition-timing-function` @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
 - [`animation-timing-function` @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+- [`linear()` @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/easing-function/linear)
 - [CSS challenge 2: Transform & Transition](https://github.com/fdnd-task/css-challenges/blob/main/docs/challenge_transform.md)
 - [cubic-bezier.com](https://cubic-bezier.com/)
 - [cssanimation.rocks](https://cssanimation.rocks/principles/)
