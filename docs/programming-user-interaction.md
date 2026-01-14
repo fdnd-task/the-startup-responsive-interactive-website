@@ -21,9 +21,11 @@ Onderzoek de 12 verschillende animatie principes van Disney aan de hand van onde
 
 ### Opdracht: Bouw de animatie (45 minuten)
 
-Kies met je tafel allemaal een ander principe om uit te werken in een code voorbeeld. Gebruik hiervoor bijvoorbeeld een nieuwe CodePen of een nieuw experimentje in je Learning Journal. Je kunt een voorbeeld uit het onderzochte artikel namaken, maar je kunt ook een eigen idee verzinnen. Als het animatie principe maar duidelijk terug te zien is. Probeer ook het JavaScript 3 stappenplan in je code te verwerken, zodat je de animatie bijvoorbeeld met een knop kunt starten (net als bij de UI Events deeltaak).
+Kies met je tafel allemaal twee andere principes om uit te werken in een code voorbeeld. Gebruik hiervoor bijvoorbeeld een nieuwe CodePen of een nieuw experimentje in je Learning Journal. Je kunt een voorbeeld uit het onderzochte artikel namaken, maar je kunt ook een eigen idee verzinnen. Als het animatie principe maar duidelijk terug te zien is. Gebruik de schetsen op het whiteboard, en breid die uit terwijl je het probleem aan het oplossen bent. Grote kans dat iemand anders nog wat aan jouw notities heeft.
 
-Deel de link van je animatie daarna op Teams, met een duidelijke beschrijving van het animatie principe dat je uitgewerkt hebt.
+Probeer ook het JavaScript 3 stappenplan in je code te verwerken, zodat je de animatie bijvoorbeeld met een knop kunt starten (net als bij de UI Events deeltaak).
+
+Deel de links van je animaties daarna op Teams, met een duidelijke beschrijving van het animatie principe dat je uitgewerkt hebt.
 
 💪 Uitdaging nodig? Werk dan meerdere animatie principes uit in verschillende demo's.
 
@@ -38,7 +40,7 @@ Deel de link van je animatie daarna op Teams, met een duidelijke beschrijving va
 - [Het JavaScript 3 stappenplan uit Sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/programming-user-interaction.md)
 
 
-### Opdracht: Verwerk minimaal één animatie principe in je interactie
+### Opdracht: Verwerk minimaal één animatie principe in de leertaak
 
 Ga naar het issue met de User Story waar je deze week aan werkt. Als je die nog niet hebt, of je hebt nog geen Wireflow schets, [maak die dan eerst aan volgens de instructies van maandag](https://github.com/fdnd-task/the-startup-responsive-interactive-website/blob/main/docs/interaction-design.md). Voeg een reactie aan je issue toe, en schrijf daarin welk(e) animatie principe(s) je wilt verwerken in je interactie. Voeg ook schetsen, hints en links naar bronnen toe; misschien heb je net al een kleine demo gemaakt die hier nu nuttig is.
 
