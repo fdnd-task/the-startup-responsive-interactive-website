@@ -8,9 +8,9 @@ Vandaag gaan we bekijken hoe we met een aantal animatie principes van Disney je 
 
 ### Opdracht: Onderzoek de principes (30 minuten)
 
-Onderzoek de 12 verschillende animatie principes van Disney aan de hand van onderstaande bronnen. Schrijf ze uit op het whiteboard en zet bij 6 van de 12 een aantal CSS properties en hints, waarmee je dat principe zou kunnen toepassen in code. (Ja, ze kunnen allemaal met keyframe animaties en transities, maar we zoeken naar andere details :-)
+Onderzoek de 12 verschillende animatie principes van Disney aan de hand van onderstaande bronnen. Schrijf ze uit op het whiteboard en schets voor 6 van de 12 een voorbeeld. Zet hierbij ook een aantal CSS properties en hints, waarmee je dat principe zou kunnen toepassen in code. (Ja, ze kunnen allemaal met keyframe animaties en transities, maar we zoeken naar andere details :-)
 
-💪 Als jullie jezelf willen uitdagen, schets dan ook een voorbeeld van de animatie erbij, of werk ze alle 12 uit op het whiteboard.
+💪 Als jullie jezelf willen uitdagen, schets en annoteer dan alle 12 principes op het whiteboard.
 
 #### Bronnen
 
@@ -21,7 +21,7 @@ Onderzoek de 12 verschillende animatie principes van Disney aan de hand van onde
 
 ### Opdracht: Bouw de animatie (45 minuten)
 
-Kies met je tafel allemaal twee andere principes om uit te werken in een code voorbeeld. Gebruik hiervoor bijvoorbeeld een nieuwe CodePen of een nieuw experimentje in je Learning Journal. Je kunt een voorbeeld uit het onderzochte artikel namaken, maar je kunt ook een eigen idee verzinnen. Als het animatie principe maar duidelijk terug te zien is. Gebruik de schetsen op het whiteboard, en breid die uit terwijl je het probleem aan het oplossen bent. Grote kans dat iemand anders nog wat aan jouw notities heeft.
+Kies met je tafel allemaal (dus ook de mentor) twee andere principes om uit te werken in een code voorbeeld. Gebruik hiervoor bijvoorbeeld een nieuwe CodePen of een nieuw experimentje in je Learning Journal. Je kunt een voorbeeld uit het onderzochte artikel namaken, maar je kunt ook een eigen idee verzinnen. Als het animatie principe maar duidelijk terug te zien is. Gebruik de schetsen op het whiteboard, en breid die uit terwijl je het probleem aan het oplossen bent. Grote kans dat iemand anders nog wat aan jouw notities heeft.
 
 Probeer ook het JavaScript 3 stappenplan in je code te verwerken, zodat je de animatie bijvoorbeeld met een knop kunt starten (net als bij de UI Events deeltaak).
 
