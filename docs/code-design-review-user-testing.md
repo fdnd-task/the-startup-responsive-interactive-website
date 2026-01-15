@@ -1,6 +1,6 @@
 # The Startup - Responsive Interactive Website 
 
-## Code/Design User Testing
+## Code/Design Review User Testing
 
 Deze week heb je gewerkt aan een interactie a.d.h.v. Disney principes. Vandaag verzamel je feedback op jouw interactie door een User Test te gaan uitvoeren.
 
