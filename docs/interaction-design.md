@@ -44,11 +44,11 @@ Analyseer onderstaande voorbeelden van microinteracties. Teken de interactie en 
 <video src="https://github.com/user-attachments/assets/f26df4cb-c994-46f0-8c7f-fa4fc8a5b9ed" width="640"  controls></video>
 <!-- https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Overflow/Carousels -->
 
-## interactie ontwerpen, maken en testen
+## Interactie ontwerpen, maken en testen
 
 Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je de interactie uitwerken in een nette Wireflow (of Screenflow), zodat je goed weet wat je gaat bouwen. Onderzoek voordat je gaat bouwen welke technieken je nodig hebt, maak een breakdown-schets zodat je een goed technisch plan hebt. 
 
-Maak een issue aan met als titel de User story. Voeg hier de user story en uitleg van de interactie aan toen, de wireflow en de breakdown. Koppel de commits aan het issue. Vrijdag ga je o.a. de interactie testen met een User Test.
+Maak een issue aan met als titel de User story. Voeg hier de user story en uitleg van de interactie aan toe, de wireflow en de breakdown. Koppel de commits aan het issue. Vrijdag ga je o.a. de interactie testen met een User Test.
 
 Bespreek jouw User story, Wireflow en breakdown-schets met een collega en vraag om feedback bij je issue.
 
