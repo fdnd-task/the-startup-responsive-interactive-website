@@ -3,7 +3,7 @@
 ## Wrap up
 
 Tijdens de *Wrap up* ga je de sprint review met de opdrachtgever voorbereiden en een poster maken voor de expo. 
-
+<!--
 ## Poster maken voor de expo
 
 Vrijdag 24 januari vindt bij FDND een expo plaats met al jullie werk. Verschillende opdrachtgevers, oud-studenten en andere bedrijven komen langs. Misschien kan je al wat contacten leggen voor later!
@@ -17,7 +17,7 @@ Voor de poster is een template gemaakt. Gebruik dit als uitgangspunt. Denk alvas
 https://www.figma.com/design/XAivPKozRpSndmQ5sy1NoE/Posters-expo-S1%2FS3?node-id=0-1&p=f&t=DRj0q3aa1w4SYdAu-0
  
 We gaan de posters woensdag om 16:00 printen.
-
+-->
 
 ## Readme schrijven
 
