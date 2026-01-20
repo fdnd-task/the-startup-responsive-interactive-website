@@ -2,7 +2,7 @@
 
 ## Wrap up
 
-Tijdens de *Wrap up* ga je de sprint review met de opdrachtgever voorbereiden en een poster maken voor de expo. 
+Tijdens de *Wrap up* ga je de sprint review met de opdrachtgever voorbereiden. 
 <!--
 ## Poster maken voor de expo
 
