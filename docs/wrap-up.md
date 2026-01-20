@@ -2,7 +2,8 @@
 
 ## Wrap up
 
-Tijdens de *Wrap up* ga je de sprint review met de opdrachtgever voorbereiden. 
+Tijdens de *Wrap up* ga je de Sprint Review met de opdrachtgever voorbereiden. Hou er rekening mee dat je opdrachtgever deze sprint waarschijnlijk ook technisch onderlegd is. Je kunt dus iets dieper ingaan op details en code.
+
 <!--
 ## Poster maken voor de expo
 
@@ -33,22 +34,26 @@ Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat 
 
 ### Beschrijving
 
-Bij 'Beschrijving' komt te staan hoe je website er uit ziet, hoe het werkt en wat je er mee kan. 
+Bij 'Beschrijving' komt te staan hoe je website er uit ziet, welke ontwerpkeuzes je hebt gemaakt, hoe het werkt en wat je er mee kan. Je kunt de volgende onderdelen uitlichten, aangezien daar de focus op lag dit hele semester:
 
 #### Responsive
 
-Laat hier zien hoe je website responsive is. 
-Toon een screenshot per breakpoint en leg ze uit. 
-Je kan je responsive website uitleggen aan de hand van de [workshop Mobile First](mobile-first.md).
+Laat hier kort zien hoe je website responsive is. Toon een screenshot per breakpoint en leg ze uit. Of laat in een video zien hoe je de viewport groter maakt en hoe jouw site zich gedraagt. Je kan je responsive website uitleggen aan de hand van de [workshop Mobile First](mobile-first.md).
 
-#### Ontwerpkeuzes
+#### Toegankelijk
 
-Laat bij _Beschrijving_ ook de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit.
+Leg kort uit wat je voor toegankelijkheid hebt gedaan. Heb je specifieke dingen getest en opgelost? Welke richtlijnen van de WCAG audit heb je verwerkt? Waar heb je aandacht aan besteed, terwijl misschien niemand dat ooit ziet (of hoort)?
+
+#### Huisstijl
+
+Laat kort de belangrijkste onderdelen van de huisstijl zien, en hoe je die hebt verwerkt. Misschien wil je hier wat details uitlichten, waar je rekening mee hebt gehouden.
+
+#### Interactief
+
+Laat kort de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit.
 Je ontwerpkeuzes kan je uitleggen door te schrijven en te laten zien hoe je _feedback_ en _feedforward_ hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van _labels_ of andere interactie principes. Bekijk hiervoor de [workshop Interaction Design](interaction-design.md). 
 Je kunt ontwerpkeuzes uitleggen met behulp van de Disney Animatie principes die je hebt toegepast in de [workshop Programming User Interaction](programming-user-interaction.md).
 Je kunt ontwerpkeuzes ook uitleggen met bevindingen uit de _user test_ (de gebruiker heeft altijd gelijk), zoals je hebt gedaan tijdens de [code/design review - user testing](code-design-review-user-testing.md) op vrijdag.
-
-Link naar de live pagina met de interactie.
 
 ### Kenmerken
 
@@ -59,9 +64,9 @@ Leg hier in grote lijnen uit hoe de interacties werken met HTML, CSS en JS en ve
 Bij _kenmerken_ toon je ook de _code conventies_ die je tijdens de workshop [Refactoring en Code Conventions](refactoring-code-conventions.md) hebt gemaakt.
 
 
-## Sprint review voorbereiden
+## Sprint Review voorbereiden
 
-Presenteer je werk tijdens de sprint review aan de hand van de opdracht. Begin je presentatie met een korte uitleg van wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik tijdens de presentatie je Readme, met de punten van hierboven. Laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interactie(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent.
+Presenteer je werk tijdens de Sprint Review aan de hand van de opdracht. Begin je presentatie met een korte uitleg van wat de opdracht was en laat dan zien wat je hebt gemaakt. Gebruik tijdens de presentatie je Readme, met de punten van hierboven. Laat zien hoe je de responsive website hebt gemaakt in de browser. Demonstreer de interactie(s) die je hebt gemaakt en leg je ontwerpkeuzes uit. Dit kunnen design keuzes zijn, maar ook hoe je het in code hebt gemaakt. Laat ook een stuk code zien waar je trots op bent. Maak ook duidelijk hoe je de huisstijl van de opdrachtgever hebt verwerkt, en wat je gedaan hebt voor toegankelijkheid.
 
 Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. Hoe gerichter je vragen, hoe beter de feedback. Misschien willen ze ook nog een code review doen? De kans om een professional naar jouw code te laten kijken!
 
