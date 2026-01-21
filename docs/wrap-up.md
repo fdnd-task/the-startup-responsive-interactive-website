@@ -2,7 +2,30 @@
 
 ## Wrap up
 
-Tijdens de *Wrap up* ga je de Sprint Review met de opdrachtgever voorbereiden. Hou er rekening mee dat je opdrachtgever deze sprint waarschijnlijk ook technisch onderlegd is. Je kunt dus iets dieper ingaan op details en code.
+Deze sprint zit er bijna op. Kijk voor de grap nog eens [wat je allemaal hebt gedaan in nog geen drie weken](https://github.com/fdnd-task/the-startup-responsive-interactive-website/blob/main/docs/INSTRUCTIONS.md#definition-of-done).
+
+
+## Sprint Review voorbereiden
+
+Tijdens de *Wrap up* ga je de Sprint Review voor de opdrachtgever voorbereiden. Hou er rekening mee dat je opdrachtgever deze sprint waarschijnlijk ook technisch onderlegd is. Je kunt dus iets dieper ingaan op details en code.
+
+Bereid met studenten die dezelfde opdrachtgever hebben samen de Sprint Review voor. Gebruik hiervoor deze tips:
+
+- Schrijf allemaal iets op wat je leuk vond bij vorige Sprint Reviews 🙂​
+- Schrijf ook allemaal een punt dat je niet leuk vond 🙂​
+- Bedenk samen drie dingen die je beter wilt doen de komende Review ➕​
+- En wie wordt verantwoordelijk voor een foto maken en delen? 📸
+
+Opdrachtgevers van de afgelopen sprints gaven ons ook nog wat tips voor jullie:
+
+- Geef elkaar onderling feedback van te voren
+- Bespreek hoe je verschillende ideeën presenteert (volgorde, samenhang, opbouw, etc)
+- Start met je plan in plaats van je resultaat
+- Gebruik timeboxing, verdeel de tijd eerlijk
+- Zorg voor een duidelijke, schriftelijke Readme
+- Bereid een online meeting goed voor, test vooraf​
+​
+​
 
 <!--
 ## Poster maken voor de expo
