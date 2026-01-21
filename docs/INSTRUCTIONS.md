@@ -69,7 +69,7 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je
 Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toegankelijkheid testen met lighthouse en handmatige tests, je bevindingen documenteren en bepalen of je nog een iteratie maakt.
  -->
 
-## Criteria
+## Definition of done
 
 Deze opdracht is done als:
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
