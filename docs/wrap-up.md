@@ -12,7 +12,7 @@ Tijdens de *Wrap up* ga je de Sprint Review voor de opdrachtgever voorbereiden. 
 Bereid met studenten die dezelfde opdrachtgever hebben samen de Sprint Review voor. Gebruik hiervoor deze tips:
 
 - Schrijf allemaal iets op wat je leuk vond bij vorige Sprint Reviews 🙂​
-- Schrijf ook allemaal een punt dat je niet leuk vond 🙂​
+- Schrijf ook allemaal een punt dat je niet leuk vond ☹️​
 - Bedenk samen drie dingen die je beter wilt doen de komende Review ➕​
 - En wie wordt verantwoordelijk voor een foto maken en delen? 📸
 
